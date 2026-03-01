@@ -408,3 +408,2618 @@ Mike Collins, “The Decline of Unions Is a Middle Class Problem,” Forbes, Mar
 “Why Germany's current-account surplus is bad for the world economy,” The Economist, July 8, 2017, accessed July 26, 2017, https://www.economist.com/news/leaders/21724810-country-saves-too-much-and-spends-too-little-why-germanys-current-account-surplus-bad. ↵
 
 # CH7
+Data Privacy
+As a globally integrated enterprise, IBM's business processes frequently extend beyond the borders of one country. Such globalization demands not only the availability of communication and information systems across the IBM group of companies (IBM), but also the world–wide processing and use of multiple types of information, including Personal Information.
+
+IBM is committed to protecting the privacy and confidentiality of Personal Information about its Employees, Customers, Business Partners (including contacts within Customers and Business Partners) and other identifiable individuals. Uniform practices for collecting, using, disclosing, storing, accessing, transferring or otherwise processing such information assist IBM to process Personal Information fairly and appropriately, disclosing it and/or transferring it only under appropriate circumstances.
+
+This Policy Letter sets forth the general principles that underlie IBM's specific practices for collecting, using, disclosing, storing, accessing, transferring or otherwise processing Personal Information, including the general principle of Privacy by Design. These general principles apply to the processing of Personal Information world–wide by IBM.
+
+The general principles are:
+Fairness:
+IBM will collect and process Personal Information fairly, lawfully, and in a transparent manner.
+Purpose Limitation:
+IBM will only collect Personal Information that is relevant to and necessary for a particular purpose(s) and will only process Personal Information in a manner that is not incompatible with the purposes for which it is collected.
+Data Minimisation:
+IBM will only process Personal Information that is adequate, relevant and not excessive for the purpose for which it is processed.
+Accuracy:
+IBM will keep Personal Information as accurate, complete and up–to–date as is necessary for the purpose for which it is processed.
+Retention:
+IBM will keep Personal Information in a form that permits identification for no longer than necessary for the purpose for which such Personal Information was collected.
+Disclosure:
+IBM will only make Personal Information available inside or outside IBM in appropriate circumstances.
+Security:
+IBM will implement appropriate technical and organizational measures to safeguard Personal Information and will instruct third parties processing Personal Information on behalf of IBM, if any, to process it only in a manner that is consistent with processing it on IBM's behalf, and to implement appropriate technical and organizational measures to safeguard the Personal Information.
+Individual Rights:
+IBM will provide individuals with appropriate rights such as right of access and correction relating to their Personal Information, as set out in the Binding Corporate Rules and in applicable law.
+Custodianship:
+IBM will have appropriate policies and practices for the safe handling of Personal Information that it processes on behalf of its customers.
+Accountability:
+IBM will have appropriate governance, including corporate instructions, guidelines, appropriately trained personnel and other measures to be able to demonstrate that the processing of Personal Information is performed in compliance with this Policy Letter.
+
+IBM Employees who come in contact with Personal Information must act consistently with the principles contained in this Policy Letter.
+
+The application of these principles is more particularly described in the applicable IBM Corporate Instructions (and any accompanying implementation guidelines) relating to processing Personal Information.
+
+May 2018
+Environmental Affairs
+IBM is committed to environmental affairs leadership in all of its business activities. IBM has had long-standing corporate policies of providing a safe and healthful workplace, protecting the environment, and conserving energy and natural resources, which were formalized in 1967, 1971 and 1974, respectively. They have served the environment and our business well over the years and provide the foundation for the following corporate policy objectives:
+
+
+Provide a safe and healthful workplace and ensure that personnel are properly trained and have appropriate safety and emergency equipment.
+Be an environmentally responsible neighbor in the communities where we operate, and act promptly and responsibly to correct incidents or conditions that endanger health, safety or the environment. Report them to authorities promptly and inform affected parties as appropriate.
+Conserve natural resources by reusing and recycling materials, purchasing recycled materials, and using recyclable packaging and other materials.
+Develop, manufacture and market products that are safe for their intended use, efficient in their use of energy, protective of the environment, and that can be reused, recycled or disposed of safely.
+Use development and manufacturing processes that do not adversely affect the environment, including developing and improving operations and technologies to minimize waste; prevent air, water, and other pollution; minimize health and safety risks; and dispose of waste safely and responsibly.
+Ensure the responsible use of energy throughout our business, including conserving energy, improving energy efficiency, and giving preference to renewable over nonrenewable energy sources when feasible.
+Participate in efforts to improve environmental protection and understanding around the world and share appropriate pollution prevention technology, knowledge and methods.
+Utilize IBM products, services and expertise around the world to assist in the development of solutions to environmental problems.
+Meet or exceed all applicable government requirements and voluntary requirements to which IBM subscribes. Set and adhere to stringent requirements of our own no matter where in the world the company does business.
+Strive to continually improve IBM’s environmental management system and performance, and periodically issue progress reports to the general public.
+Conduct rigorous audits and self-assessments of IBM’s compliance with this policy, measure progress of IBM’s environmental affairs performance, and report periodically to the Board of Directors.
+Every employee and every contractor on IBM premises is expected to follow this policy and to report any environmental, health or safety concern to IBM management. Managers are expected to take prompt action.
+
+July 1997
+Health and Safety
+IBM has a long history of excellence in employee health and safety. The importance we place on this priority supports our ongoing commitment to our employees, customers, business partners, visitors, and the communities where we live and work. The objectives of our health and safety management system include providing a safe and healthy workplace, the prevention of injuries and illnesses, and the provision of resources to fulfill these commitments.
+
+IBM is committed to:
+Complying with legal and other requirements
+Reducing health and safety risk by eliminating or controlling hazards
+Promoting participation in continuous improvement of the management system
+IBM’s commitment to health and safety is essential to our brand, innovation and market leadership. We strive to continue the excellence we have attained in these areas.
+
+September 2018
+For more information, read Health and Safety at IBM
+IBM Global Employment Standards
+At IBM, we have always set high standards for the way we conduct business – in areas from corporate and social responsibility to sound business ethics, including compliance with all applicable laws and regulations.
+
+These Conduct Principles apply to all IBM employees. However, they are not meant to describe the full scope of IBM human resource policies or practices. More detailed statements of policies, procedures and practices are contained in documents such as the IBM Business Conduct Guidelines. Employees are required to comply with all IBM policies, procedures and practices at all times and are responsible for consulting their management if they have any questions.
+
+Our goal is to ensure full compliance with these principles by IBM managers and employees. A companion to this document, the IBM Supplier Conduct Principles, governs our relationships with and standards for IBM suppliers.
+Freely Chosen Employment
+Forced, bonded (including debt bondage) or indentured labor; involuntary prison labor; slavery or trafficking of persons shall not be used. This includes transporting, harboring, recruiting, transferring, or receiving persons by means of threat, force, coercion, abduction or fraud for labor or services. There shall be no unreasonable restrictions on workers’ freedom of movement in the facility in addition to unreasonable restrictions on entering or exiting company-provided facilities. As part of the hiring process, workers must be provided with a written employment agreement in their native language (or in a language the worker can understand unless otherwise required by law) that contains a description of terms and conditions of employment prior to the worker departing from his or her country of origin. Employment is voluntary and employees shall be free to terminate their employment at any time. Employers and agents may not hold or otherwise destroy, conceal, confiscate, or deny access by employees to employees’ identity or immigration documents, such as government-issued identification, passports, or work permits, unless such holdings are required by law. Workers shall not be required to pay employers’ or agents’ recruitment fees or other related fees for their employment. If any such fees are found to have been paid by workers, such fees shall be repaid to the worker.
+Young Workers
+IBM will comply with all applicable child labor laws. We support the use of legitimate workplace learning, internship, and other similar programs which comply with all laws and regulations applicable to such programs. Employees under the age of 18 (Young Workers) shall not perform work that is likely to jeopardize their health or safety including night shift and overtime. IBM shall ensure proper management of student workers through proper maintenance of student records, rigorous due diligence of educational partners, and protection of students’ rights in accordance with applicable law and regulations, and will provide appropriate support and training to all student workers. In the absence of local law, the wage rate for student workers, interns, and apprentices shall be at least the same wage rate as other entry level workers performing equal or similar tasks. In the unlikely event an instance of child labor is discovered, the matter will be referred to the VP, Global Recruitment and the VP, Employee and Labor Relations for immediate corrective action.
+Wages and Benefits
+IBM will, at a minimum, comply with all applicable wage and hour laws and regulations, including those relating to minimum wages, overtime hours, piece rates, non-exempt or exemption classification and other elements of compensation, and provide legally mandated benefits. The pay which employees receive will be reflected in a timely and understandable manner via a pay statement or similar documentation that includes sufficient information to verify accurate compensation for work performed, including overtime compensation and its calculation if appropriate. All use of temporary, dispatch and outsourced labor will be within the limits of the local law.
+Working hours
+IBM will not exceed maximum hours of work prescribed by law and will appropriately compensate overtime. Employees will not be required to work more than 60 hours per week, including overtime, except in extraordinary business circumstances with their consent or where the nature of the position requires such work, such as for exempt employees and employees in executive, managerial or professional positions. In countries where the maximum work week is shorter, that standard shall apply. Employees shall be allowed at least one day off during every seven day work week.
+Non-discrimination and Harassment
+IBM will not discriminate in hiring, promotion, training, compensation of employees and employment practices on grounds of race, color, religion, age, national origin, social or ethnic origin, caste, sexual orientation, gender, gender identity or expression, marital status, pregnancy, political affiliation, union membership, protected genetic information, disability, covered veteran status or any other characteristics protected by applicable law. IBM will create a work environment free of discrimination or harassment based on the noted categories. Workers shall be provided with reasonable accommodation for religious practices. In addition, workers or potential workers should not be subjected to medical tests or physical exams that could be used in a discriminatory way.
+Respect and Dignity
+IBM will treat all employees with respect and dignity and will not use corporal punishment, threats of violence, or other forms of abuse, physical coercion or harassment. Disciplinary policies and practices in support of these requirements shall be clearly defined and communicated to workers.
+Freedom of Association
+In conformance with local law, IBM will respect the legal rights of all its employees to form and join worker organizations of their own choosing, including labor organizations or trade unions, or to refrain from forming and joining such organizations, for purposes of bargaining collectively and to engage in peaceful assembly. IBM complies with applicable local laws worldwide regarding employee and third-party involvement, and will not discriminate based on an employee’s decision to join or not join a labor organization. IBM respects the rights of employees to organize, and makes managers at all levels aware of those rights. Employees and/or their representatives shall be able to openly communicate and share ideas and concerns with management regarding working conditions and management practices without fear of discrimination, reprisal, intimidation, or harassment. The Company’s long-standing belief is that the interests of IBM and its employees are best served through a favorable, collaborative work environment with direct communication between employees and management. IBM endeavors to establish such favorable employment conditions, to promote positive relationships between employees and managers, to facilitate employee communications, and to support employee development.
+Health and Safety
+IBM will provide its employees with a safe and healthy workplace in compliance with all applicable laws and regulations. Consistent with these obligations, IBM will have and implement effective programs that encompass things such as life safety, incident investigation, chemical safety, ergonomics, and provide safe standards of health and safety in any housing and transportation provided for our employees by the company. Workers will be provided health and safety training in their primary language. Health and Safety related information shall be clearly posted in the facility.
+Protection of the Environment
+IBM will operate in a manner that is protective of the environment. At a minimum, IBM will comply with all applicable environmental laws, regulations and standards, such as requirements regarding chemical and waste management and disposal, recycling, industrial wastewater treatment and discharge, air emissions controls, environmental permits and environmental reporting. IBM will also comply with any additional environmental requirements specific to the products or services being provided to IBM as called for in design and product specifications, and contract documents.
+Laws, including regulations and other legal requirements
+IBM will comply with all applicable laws, regulations and other legal requirements in all locations where it conducts business.
+Ethical Dealings
+IBM expects its employees to conduct business in accordance with the highest ethical standards, and maintains Business Conduct Guidelines that employees are required to follow. IBM strictly complies with the Foreign Corrupt Practices Act and all laws and regulations on bribery, corruption and prohibited business practices. IBM does not offer employment or any other form of work experience (paid or unpaid) in exchange for obtaining business or other advantages for IBM. IBM Global Procurement maintains IBM’s policy regarding conflict minerals.
+Communications
+IBM makes available to all employees open communications channels for suggestions and complaints to management. IBM maintains channels for direct contact with the Corporate Office for employee complaints, including any form of harassment including sexual harassment.
+Monitoring/Record Keeping
+IBM will perform business audits to ensure adherence to our policies, practices and procedures. We will keep records in accordance with local laws and regulations.
+Privacy
+IBM is committed to protecting the privacy and confidentiality of information about its employees. IBM recognizes that under the laws of some countries certain information about employees, such as information regarding racial or ethnic origin, political opinions or philosophical beliefs, trade-union membership, and health or sex life, should be considered “sensitive.” Whenever possible, such sensitive information should be processed in aggregate or anonymous form so that a particular individual is not identifiable. Where this is not feasible, IBM will only process the information in accordance with applicable local law (and any designated safeguards provided therein); and with employee consent where required; or where necessary for the establishment, exercise or defense of legal claims. All employees are expected to use information about IBM clients, suppliers, and business partners in accordance with their job responsibilities and the IBM Business Conduct Guidelines.
+Support for employees and community involvement
+IBM provides numerous programs for employees to encourage and enhance the positive impact of their community involvement. These global programs include: On Demand Community, a suite of online tools and resources to support employee volunteerism; Community Grants, a program that awards long-term volunteer commitments with grants of cash or IBM equipment; and Matching Grants, a program through which IBM matches employee grants to schools and nonprofit organizations.
+Management System
+Formal corporate policies issued by the IBM Chief Executive Officer, or the senior officer he or she directs, govern company-wide actions within IBM and actions with all third parties. Our corporate policies reflect IBM’s values and the resulting management system within which our decisions are made.
+Applicability:
+This instruction applies to all IBM corporate functions, business units, and wholly owned subsidiaries, and majority owned subsidiaries which are subject to the IBM Business Conduct Guidelines.
+
+July 2018
+IBM Human Rights Principles
+IBM is committed to high standards of corporate responsibility. Our definition of corporate responsibility includes environmental responsibility, as well as social concerns for our workforce, clients, business partners, and the communities where we operate.
+
+Underpinning our corporate responsibility standards and practices is our dedication to respect human rights. IBM’s stance on human rights is informed by international standards, including the UN Guiding Principles on Business and Human Rights, the ILO Declaration on Fundamental Principles and Rights at Work, and the UN Universal Declaration of Human Rights.
+
+IBM has a strong culture of ethics and integrity, guided by a rigorous system of corporate governance that promotes transparency on a global basis and compliance with all applicable laws and regulations where we do business.
+Approach and Impact
+Throughout its history, IBM has taken a thoughtful, comprehensive approach to corporate responsibility that is based on IBM’s values and takes into account four areas of impact that are of particular interest to our stakeholders, i.e. support of our employees and communities; the impact of IBM’s products and operations on the environment; the management of our global supply chain: and, the governance, ethics, and integrity of our company.
+
+IBM’s approach recognizes our vast network of stakeholders and the understanding that our work can impact not only our business success, but also the efficiency and innovation of countries, cities, governments, communities, and our planet’s critical infrastructure.
+
+We strive to maximize IBM’s positive impact as a global enterprise in a number of ways: we identify and act upon new opportunities to apply our technology and expertise to societal problems; we scale our existing corporate responsibility programs and initiatives to help achieve maximum benefit; we empower our employees and others to serve their communities: and, we integrate corporate citizenship and our respect for human rights throughout our company.
+
+We focus our engagement and programs on specific societal issues, including community economic development, education, health, literacy, language and culture. These are areas of basic human and wider societal needs where we can apply IBM’s technology and talent to help solve problems and to contribute to the advancement of human rights.
+Our Ethical Guidelines
+IBM’s Business Conduct Guidelines (BCGs) serve as our global code of conduct for IBM employees, and reflect our longstanding commitment to high ethical conduct and decision-making. They specify IBM’s standards of business ethics, basic values and principles.
+
+The BCGs are complemented by formal corporate directives that govern our companywide actions. Their intent is to express clear direction on the things that are fundamental and therefore most enduring in our business. In addition to guiding action in specific areas such as environmental affairs or data privacy, our corporate policies also include a set of Global Employment Standards.
+IBM Global Employment Standards
+These principles apply to IBM employees and are explained more fully on our "Responsibility at IBM" webpage. We expect our managers and employees to comply fully with these Standards.
+
+The Global Employment Standards address areas that are important to human rights and include among others the commitment that IBM:
+
+will not use forced or child labor will comply at a minimum with all applicable wage and hour laws and regulations will comply with legal limits to working time will create a work environment free of discrimination or harassment and will treat all employees with respect and dignity will respect the legal rights of its employees to join (or not) worker organizations, including labor organizations or trade unions IBM strives to establish favorable employment conditions, to promote positive relationships between employees and managers, to facilitate employee communications, and to support employee development.
+
+We train our employees and we perform regular business reviews to confirm compliance to our policies, practices and procedures. For example, periodically, usually each year, IBM employees are required to formally certify to the BCG and complete online, interactive training.
+Working with partners and suppliers
+Working with third parties is an integral part of IBM’s business in meeting the needs of our clients. IBM’s Business Partner Code of Conduct describes the minimum standards of business conduct and practices we expect from our business partners, for example, that employees are provided with a work environment free of coercion, discrimination, and harassment. If applicable laws and regulations are more permissive than this Code of Conduct, business partners are expected to comply with the IBM Code of Conduct. As appropriate, IBM provides business partners with online, and in some instances live, training on ethics and integrity.
+
+For our supply chain relationships, IBM uses the Responsible Business Alliance (RBA) Code of Conduct (formerly the EICC Code of Conduct) as a single code for our global supply base. The RBA Code of Conduct establishes the standards we expect from our suppliers in doing business with IBM across several areas of social responsibility, including labor, health, safety, protection of the environment, ethics, and management systems. Our goal is to work with our suppliers to foster their full compliance to the RBA Code of Conduct and we expect them to cascade these standards to their extended sources of supply engaged in the production of goods and services for IBM. We consider these standards in our supplier selection process and monitor ongoing performance, as needed, by periodic third party supplier compliance audits. IBM reserves the right to take action with suppliers that do not comply with the RBA Code of Conduct and may consider measures such as reducing or ending business in accordance with contract terms.
+Communication and Concerns & Appeals Mechanisms and Channels
+IBM makes available to all employees open communications channels for suggestions and complaints to management; IBM also maintains a channel for contact with the management for employee complaints, a channel to discuss concerns with specialists for guidance, and a channel to raise concerns anonymously. These may address complaints of any kind, including any form of harassment and misconducts of sexual nature. IBM does not tolerate threats or acts of retaliation against any employee for reporting a concern or suspected violation. Additional communication channels are available for suppliers, business partners, and others to report concerns or suspected violations to the company, including ways for submitting anonymous reports.
+Governance
+IBM senior management is ultimately responsible for our economic, environmental, and social corporate responsibility programs and progress, including our dedication to human rights, as well as our adherence to IBM’s overall compliance programs. The IBM Board and our CEO annually review IBM’s corporate responsibility programs and progress. Our dedication to corporate responsibility is fostered throughout the company and integrated across the business through the following forums.
+Corporate Responsibility Executive Steering Committee and Working Group
+Our Corporate Responsibility Executive Steering Committee comprises senior executives from functional areas across the business and is chaired by IBM’s Vice President for Corporate Citizenship and Corporate Affairs. The committee meets periodically to provide leadership and direction on key human rights and corporate responsibility issues. Each functional area is responsible for the development of its own goals and strategy, with organization-wide goals approved by the steering committee.
+
+Our Corporate Responsibility Working Group consists of representatives from functional areas (including global representation) and meets regularly to manage IBM’s human rights and corporate responsibility activities and stakeholder engagement. The working group reviews key standards and strategic issues in the area of corporate responsibility and human rights and makes recommendations to the steering committee throughout the year.
+Stakeholder engagement and reporting
+IBM actively works with stakeholders who examine and influence our human rights and corporate responsibility programs and practices. We view stakeholder engagement as much more than communications and consultation. For us, it is about business engagement and collaboration—working shoulder-to-shoulder with communities, governments, investors, and the social sector. We work closely together with organizations that are taking similarly innovative, global, open, and collaborative approaches to corporate citizenship and sustainability.
+
+We publicly report on our corporate responsibility initiatives and progress through our annual corporate responsibility report, additional GRI reports, and specific ad-hoc publications on particular areas such as diversity and equal opportunity.
+Inclusion@IBM
+The employees of IBM represent a talented and diverse workforce of individuals from all backgrounds and experiences. Achieving the full potential of all IBMers is a business priority that is fundamental to innovation and creativity, which ensure our competitive success. IBM's long-standing commitment to equal opportunity is based on sound business judgment and anchored in IBM values.
+IBM has more than 100 years of work on diversity, inclusion and equality in the workplace. That legacy, and our continued commitment to advance equity in a global society, has made us leaders in diversity and inclusion. Guided by our values and beliefs, we're proud to foster an environment where every IBMer is able to thrive because of their differences, not in spite of them. 
+Dating back to 1953 when Thomas J. Watson, Jr. issued Policy Letter #4, IBM has committed to hire “people who have the personality, talent and background necessary to fill a given job, regardless of race, color or creed.”  This is interpreted in a modern environment, and to adhere to various local laws, as the policy of this organization to continue to engage in activities such as hiring, promotion and compensation of employees, without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, mental or physical disability, neurodivergence, age or other characteristics protected by applicable law. IBM makes reasonable accommodations available where the Company believes they are appropriate to enable employees with disabilities and others to effectively perform their jobs.
+In respecting and valuing the diversity among our employees and all those with whom we do business, managers and employees are expected to foster an inclusive work environment free of all forms of discrimination, harassment, bullying and retaliation. Every manager in IBM is expected to abide by this policy, and all applicable laws on this subject, and to uphold IBM's commitment to inclusion. 
+April 2025
+Inclusive business relationships
+Wherever IBM operates around the world, we strive to conduct our business in a fair and equitable manner. Consistent with this objective, we follow local laws and customs of the countries in which we operate, and we actively seek to establish close working relationships with businesses indigenous to those countries. 
+The policy of the IBM Corporation is to provide all businesses with equal opportunity to participate in all areas of IBM's marketing, procurement, and contracting activities. This policy applies to all firms or institutions regardless of the business owner's race, color, religion, gender, pregnancy, gender identity or expression, sexual orientation, national origin, caste, disability, age, or status as a special disabled veteran or other veteran. 
+In the United States, these activities comply with all applicable federal, state and local laws, including those dealing with the use of small business; small, disadvantaged business; women-owned small businesses; HUBZone businesses; veteran-owned businesses and service-disabled veterans. 
+This policy applies to all areas of expenditures, whether for products or services. Action should be taken by all IBM organizations to ensure that this policy is implemented and that there are programs which ensure IBM's performance against this commitment. 
+May 2025
+Politics
+It is IBM’s long–standing policy that we participate in politics as private citizens, not as IBMers. Therefore, it is the policy of the IBM Company not to make contributions of resources such as money, goods or services to political candidates or parties. This policy applies equally in all countries where IBM does business, regardless of whether or not such contributions are considered legal in any host country.
+
+We encourage IBM employees to participate in political activity in their individual communities and countries. The Company will do everything reasonable to accommodate employees who need to be away from work while running for or holding political office, or fulfilling significant party duties during a campaign or election. IBM will not pay employees for time off for political activity. However, if a country where IBM does business has a law which requires an employer to give time off, with pay, to any employee holding public office, then that law takes precedence.
+
+Because IBM does business with many levels of government, we have instituted procedures designed to avoid conflict of interest situations for IBM employees holding government offices. These procedures must be followed.
+
+December 1975
+Principles for Trust and Transparency
+Learn more here.
+Reciprocity
+It is IBM's policy neither to buy nor to sell on a reciprocity basis.
+
+To maintain the high performance standards of our products, we must base all our purchases on quality, price and the supplier's reliability. To use reciprocity as a purchasing consideration would limit our field of supply and could jeopardize our product quality and price.
+
+In addition, we should never use our extensive purchases to aid our selling efforts. We must leave customers free to buy, unhampered by any reciprocity considerations.
+
+November 1966
+
+Health and Safety
+at IBM ↷
+
+Employee health and safety is a longstanding priority at IBM,
+as defined in our Corporate Policy 127, “Culture of Health and
+Safety.” Our commitment to healthy work environments and
+improved health through prevention is vital to IBM’s innovation
+and productivity. The following overview of IBM policies and
+practices is supplemented by our annual ESG reports, which
+detail updates and accomplishments for the most recent year.
+IBM implements its policy through a Health and Safety Management
+System (HSMS). The policy’s objectives include providing a safe
+and healthy workplace, preventing injuries and illnesses, and
+providing resources to fulfill these commitments: staffing, financial
+and technological. The IBM HSMS applies to all activities, workers
+and workplaces managed by IBM, including subsidiaries
+where workers’ employment has been transferred to IBM,
+and work activities related to all of IBM’s products, services,
+and support functions. Our HSMS also applies to outsourced
+
+arrangements, on-site contractors and other services. IBM’s
+Corporate Instruction 110 “IBM HSMS Roles and Responsibilities”
+affirms that all IBMers participate in maintaining safe, healthy
+workplaces.
+We set annual plans to promote continual improvement, reducing
+risks through standards and practices to manage hazards. Risks
+are eliminated if possible, or addressed with engineering designs
+and work organization, prior to adding administrative controls
+or requiring protective equipment. Our plans often include new
+or updated standards for safe work, or programs to build worker
+competencies for preventing or mitigating injury and illness. Each
+year, IBM reviews data and examines performance indicators via
+monitoring, measurements, and management reviews. These
+reviews include confirming compliance with legal and internal
+IBM requirements.
+
+Employee participation
+All IBMers participate in the company’s culture of health and
+safety, and IBM provides training as needed to establish workers’
+competencies in meeting safety standards and managing risks.
+IBM solicits employee participation in all aspects of health and
+safety, seeking their input on HSMS policies and procedures, as
+well as on decisions relevant to their health and safety. IBMers
+help us determine what skills and training are needed, participate
+in investigating incidents, and their feedback is a valuable part of
+the annual HSMS audit. IBM and its workers participate in joint
+management/worker safety committees such as the European
+Work Councils, and local safety committees where legally
+required. In other locations, safety and health committees are
+encouraged and meetings are held at a frequency based on the
+risk of the work being performed.
+All IBMers are encouraged to consult their management
+immediately with any questions or concerns regarding safety.
+IBMers have several additional communication channels to
+report concerns, not only about safety but also regarding IBM’s
+business conduct guidelines and related policies. Communication
+channels include the “Employee Concerns” program, a single
+point of entry for IBMers to raise a concern and “Talk it Over@
+IBM” where situations related to non-inclusive behaviors can be
+raised. IBM employees are made aware of their right to report
+concerns regarding possible violations of law or regulation to a
+government agency, and IBM does not tolerate threats or acts
+of retaliation against individuals for making such reports. This
+commitment is communicated annually as part of required
+training on IBM’s Business Conduct Guidelines.
+IBM provides health and safety education that is required legally
+and by IBM’s own policies. This includes when a worker is
+introduced to changes to operations or environments that could
+lead to new hazards and risks. Education can include general
+awareness as well as training in and certification of specific
+skills, through a range of programs and channels. Managers are
+responsible for ensuring relevant training is undertaken, and in
+maintaining our culture of safety by ensuring workers are aware
+of the following:
+
+– The importance of worker participation in promoting a safe
+work environment.
+– The importance of reporting situations that could present
+serious harm to themselves and others, and the authority to
+remove themselves from these situations.
+– Actions IBMers need to take in the event of an emergency.
+– Incidents and investigations relevant to their health and safety.
+– Implications and potential consequences of not conforming to
+IBM’s health and safety requirements.
+– IBM policies, instructions and relevant health and safety
+standards and objectives.
+IBM‘s health benefits, disability programs, and wellbeing
+initiatives are designed to “advance the wellbeing of employees
+and their families, every day, everywhere.” The goal is to integrate
+health, wellbeing and disability programs to provide a seamless
+and simplified employee experience. Programs offered address
+all levels of prevention from primary care and prevention, such
+as flu vaccinations, employee assistance program and preventive
+screenings, to tertiary prevention such as support for chronic
+health conditions. In some locations and where legally required,
+onsite medical clinics are also provided. There are also provisions
+for individual case management to help ill or injured workers
+to return to work safely. IBM offers access to insurance and
+supplemental healthcare provided by social systems where
+possible, and programs are customized to local risk factors
+such as smoking cessation, substance abuse and mental health
+programs. Access to services varies by country and may be
+offered through virtual mechanisms, onsite activities, or external
+partners. IBM ensures the confidentiality of workers’ personal
+health related information through compliance with General Data
+Protection Regulation and local legal requirements.
+
+HSMS management
+IBM’s HSMS is certified to the 2018 ISO 45001 Occupational
+Health and Safety Management System (OHSMS) standard
+(and to OHSAS 18001 previously). IBM’s global certification,
+established in 2019 following an evaluation by a third-party
+auditor, is based on a three-year cycle, with a certification audit in
+the first year and surveillance audits in years two and three. The
+audit’s scope covers HSMS processes supporting IBM operations
+and 100% of our workers globally.
+Regular performance evaluations are a critical HSMS element,
+directing our efforts toward continuous improvement. We employ
+a variety of monitoring and measurement processes, including
+
+hazard identification, risk evaluation, physical inspections, self-
+assessments and peer reviews. We measure performance against
+
+local requirements as well as global IBM standards, generating
+reports that are provided to relevant workers and communicate
+key measurements, control points, and corrective actions.
+Additionally, IBM’s senior management reviews the HSMS annually
+for adequacy, suitability and effectiveness, as well as assessing
+the resources available to implement health and safety policies.
+IBM’s Corporate Health and Safety (CH&S) team is comprised
+of trained professionals who develop and manage the IBM
+Health and Safety Standards, which apply globally and are used
+when local legal and regulatory requirements are insufficient to
+address risks. CH&S is a globally integrated team with expertise
+as medical doctors, nurses, psychologists, social workers, safety
+engineers, industrial hygienists and public health professionals.
+As activities and IBM operations are subject to change, the CH&S
+team regularly conducts health and safety reviews and audits to
+identify new and emerging risks, and update standards as needed
+to address them. Following reviews, the team develops plans
+and monitors the steps taken to address risks, with objectives
+assessed locally as well as globally.
+In alignment with ISO 45001: 2018, IBM classifies an accident as
+an incident where injury or ill health occurs as a result of workplace
+or work related exposure. IBM uses the ASTM E2920-19 Standard
+Guide for Recording Occupational Injuries and Illnesses for
+reporting work-related ill health. (Data on work-related accidents
+among non-employee workers are not collected at the global
+level. If permissible, this information may be collected at a
+country level.) More information on IBM’s work-related injuries
+and illnesses can be accessed in IBM’s annual ESG report.
+When a work-related incident occurs, local management
+investigates to determine what happened, as well as how and
+why it happened. This often includes participation from workers
+involved with the activities related to the incident. Corrective
+
+actions are prioritized to first eliminate the hazard; then to
+substitute a less hazardous process, material or equipment; then
+to deploy engineering controls and reorganization of work; then
+to use administrative controls, including training; and finally to
+implement personal protective equipment.
+IBM’s response to all work-related incidents follows a consistent
+process, with the priorities of helping restore the worker’s
+health as soon as possible, preventing further occurrence, and
+supporting the worker to return to work safely. IBM has IT
+solutions to notify line management and IBM safety professionals
+of an accident automatically, in a consistent fashion, and to help
+them gather information, define the problem, determine a root
+cause, as well as develop and implement corrective actions to
+prevent recurrence.
+IBM requires all contractors to meet health and safety
+qualifications as an outsourced arrangement. IBM also provides
+oversight for contractors and contracted work commensurate
+with risks, and includes health and safety performance, including
+compliance with legal health and safety requirements, in
+contracts and audits. These requirements include:
+– Providing contractors with applicable IBM health and safety
+requirements.
+– Informing affected workers of potential hazards associated
+with contractor activities.
+– Informing contractors of hazards and risks they may encounter
+while performing contracted work for IBM.
+– Verifying contractors’ qualifications to perform the contracted
+work.
+– Addressing unsatisfactory contractor safety and health
+performance.
+Controlling health and safety risks also entails the management
+of procured products such as raw materials, equipment, and
+hazardous material or substances. IBM Procurement maintains
+a list of products and product families that require an additional
+assessment by the CH&S team. The CH&S team, reviews these
+products (with buyer input if necessary) prior to their purchase,
+and either approves their use within IBM (potentially with
+conditions), or prohibits them.
+Business Conduct
+Guidelines
+
+Integrity Comes First
+
+1. Integrity Means WeCommit to
+Ethics and Compliance
+1.1. Our Values and the Business ConductGuidelines
+1.2. The Importance ofIntegrity and Compliance
+1.3. Speaking Up – Where and How to Report
+1.4. Cooperation
+1.5. No Retaliation
+1.6. ExternalInquiries, Contacts and Communications
+1.7. SpeakingPublicly and Social Media
+
+2. Integrity Means We ProtectIBM
+Employees, IBM Assets and the
+Assets Belonging to Others
+2.1. Maintaining a Safe andProductive Work Environment
+2.2. Protecting and Using IBM Assets and Those Owned by
+Others
+2.3. Sharing and Receiving Proprietary and Confidential
+Information
+2.4. Avoiding Inadvertent Disclosure
+2.5. Guarding Against Cyberthreats
+2.6. ProtectingAssets, Business Interests and Employees
+2.7. Managing Personal Information
+2.8. Leaving IBM
+
+3. Integrity Means WeRespect
+Intellectual Property Rights
+3.1. Protecting IBM Intellectual Property
+3.2. Using Third-Party Software,Apps, Cloud-Based
+Services and Data
+3.3. Using Open Source Software
+3.4. DevelopingApplications for Mobile Devices
+3.5. Protecting Trademarks and Domain Names
+
+4. Integrity Means We Are Honest,
+Accurate and Complete
+4.1. Be Honest
+4.2. Reporting and Recording Information
+4.3. Understanding Financial Controls and Reporting
+4.4. Making Commitments and Obtaining Approvals
+4.5. Retaining Records
+
+2 IBM Business Conduct Guidelines
+Table
+of Contents
+
+5. Integrity Means We Compete,
+Win Business and Treat Others Ethically
+5.1. Working with Organizations Outside of IBM
+5.2. Working with Government Entities and Other GOEs
+5.3. Working with Suppliers
+5.4. Working with IBM Business Partners, Resellers and Others
+5.5. Dealing with Competitors
+5.6. Competing Ethically
+5.7. Acquiring and Using Information About Others
+
+6. Integrity Means We Meet Our Legal
+Obligations
+6.1. Protecting Against Corruption
+6.2. Giving and Receiving Business Amenities and Gifts
+6.3. Avoiding Money Laundering and Funding Terrorist Activities
+6.4. Selling in the Public Sector
+6.5. Lobbying
+6.6. Visiting IBM Property –GovernmentOfficials and
+Candidates for Public Office
+6.7. Complying with International Trade Requirements
+6.8. Complying with Antiboycott Requirements
+6.9. Meeting Cross-Border Travel Requirements
+6.10. Protecting the Environment
+
+7.Integrity Means We Separate Our
+PersonalInterests from Our Business
+Responsibilities
+7.1. Acting on Your Own Time
+7.2. Avoiding Conflicts ofInterest
+7.3. Steering Clear ofInsider Trading
+7.4. Participating in Public Service and Political Activity
+
+8. Notice of Certain Additional
+Rights; Information and Resources
+8.1. Other IBM Policies, Directives and Guidelines
+
+IBM Business Conduct Guidelines 3
+
+4 IBM Business Conduct Guidelines
+If we think ofIBM’s values as our ethical compass,then the Business Conduct Guidelines are
+our roadmap. They are inspired by IBMers’ core value of “trust and personal responsibility in
+all relationships.” They govern our interactions with clients, business partners, suppliers,
+developers, investors, teammates and communities. They support us as we strive to operate
+with integrity at all times.
+As you review the current Business Conduct Guidelines,I ask you to take a moment to reflect
+on how they apply today to your individual role at IBM. Think about their relevance to the
+products you develop. To the regulatory environments you encounter. And to the daily
+interactions you have with others, both inside and outside our company.
+Our commitment to the responsible stewardship of IBM’s values is part of what makes us a
+unique and enduring company. Our longstanding reputation for ethics and integrity – built over
+more than a century – provides a foundation to continue IBM’s essential role in business and
+society, today and in the years to come. We are all keepers of this important legacy. Your
+thorough understanding and application of our Business Conduct Guidelines is one of the most
+critical ways we can uphold this responsibility.
+Thank you for your dedication to these principles, and for everything you do to make IBM the
+world’s most trusted technology partner.
+
+Arvind Krishna,
+Chairman and Chief Executive Officer
+Letter
+from Arvind
+
+Integrity Means
+
+We Commit to Ethics
+and Compliance
+
+IBM Business Conduct Guidelines 5
+
+1
+
+1. Integrity Means We Commit to Ethics and Compliance
+
+6 IBM Business Conduct Guidelines
+1.1 Our Values and
+theBusiness Conduct
+Guidelines
+
+IBM has long been recognized as one of the world’s
+most ethical companies. For more than one hundred
+years, we’ve repeatedly reinvented ourselves to meet
+newchallenges.What always has remained unchanged
+is our unwavering commitment to integrity.
+OurIBM Values serve as a solid foundation for the
+business choices we make. The Business Conduct
+Guidelines (BCGs) provide general guidance for
+resolving a variety of legal and ethical issues.
+
+IBM’s Values
+
+Dedication to every client’s
+success
+
+Innovation that matters—for our
+company and for the world
+
+Trust andpersonalresponsibility
+in all relationships
+
+1. Integrity Means We Commit to Ethics and Compliance
+
+IBM Business Conduct Guidelines 7
+
+1.2 The Importance of
+Integrity andCompliance
+
+Integrity and compliance are vital to IBM’s success
+– and yours.Our integrity, reputation and brand are in
+your hands, and we rely on you to protect them!
+No matter where your workplace is – whether you work
+with IBMers, clients, Business Partners, suppliers or
+other parties in person, over the phone, online or by any
+other means – follow our Values, the BCGs and other
+applicable IBM corporate directives, such as IBM
+policies, corporate instructions and guidelines
+(Corporate Directives). And comply with all laws and
+regulations that apply to IBM’s business.
+Always use good judgment in your work. If you have
+questions about interpreting or applying the BCGs,
+Corporate Directives, or laws and regulations applicable
+to IBM, don’t guess. Ask for help.It’s your responsibility
+to consult your manager or IBM Counsel, or use one of
+the IBM Communication Channels.
+
+If you violate the BCGs, other Corporate Directives or
+the law, IBM may take any action regarding your
+employment, including termination of employment,
+subject to applicable law. Failing to comply with laws
+could also result in fines, lawsuits, loss of business
+privileges and, in some cases, imprisonment.
+
+1.3 SpeakingUp – Where
+and How to Report
+
+IBM expects IBMers like you to report potential
+wrongdoing – whether a violation ofthe BCGs or other
+unethical or unlawful conduct involving IBM.IBM will
+promptly review your report of actual or potential
+violations of the BCGs or other unlawful or unethical
+conduct. IBM will not tolerate threats or acts of
+retaliation against you for making any reports.
+To report a concern (or raise an allegation), contact:
+› IBM Employee Concerns: for concerns or allegations
+relating to potential violations of the IBM Business
+
+Conduct Guidelines, including without limitation non-
+inclusive or inappropriate behaviors (such as bullying,
+
+harassment or discrimination) or financial recording
+and reporting, business process violations and
+inappropriate use of assets, or management decisions
+which personally affect you or the broader IBM
+population.
+› IBM Corporate Security: for threats or acts of
+violence, loss or theft of IBM assets (including trade
+secrets and otherintellectual property), or violation of
+law on IBM premises.
+› IBM Cybersecurity Incident Response Team: for
+cybersecurity or data incidents, potential or actual
+system and data breaches and inadvertent
+disclosures.
+› IBM Global Real Estate Safety: for work-related
+safety issues.
+› IBM Corporate Health: for work-related health
+issues.
+
+Watch out!
+
+As our business continues to transform, you
+may find yourself working in exciting new areas
+like healthcare, financial services, education
+or mobile application development, some
+of which are highly regulated. Any change
+in your work responsibilities may carry new
+responsibilities underthe BCGsor new legal
+requirements.
+
+1. Integrity Means We Commit to Ethics and Compliance
+
+8 IBM Business Conduct Guidelines
+If you are unsure how to raise a concern or allegation,
+the following resources and communication channels
+are also available:
+› Talk It Over @ IBM
+› AskHR
+› RCI Strategic Advisors
+› Corporate Assurance and Advisory Services
+› Your Manager
+› The Legal Department
+
+Did you know?
+
+You can raise concerns orreport potential
+wrongdoing through the IBM Employee
+Concerns page. Concerns may be raised
+online, by regular mail or by phone, are
+handled discreetly, and may be raised
+anonymously. Also, an employee is
+not prohibited from reporting possible
+violations of law or regulation to a
+government agency,as permitted by law.
+
+Take note!
+
+IBM’s Global Insider Trust Program
+empowers employees to safeguard our
+organization’s integrity and security. By
+adhering to the Business Conduct Guidelines
+(BCGs) and recognizing that insider threat is a
+shared responsibility, itis imperative that we all
+contribute a culture of transparency and
+accountability,thus ensuring the protection of
+our IBM equities. It is every IBMer’s duty to
+report any activity that risks IBM data,
+personnel, facilities, or intellectual property,
+including risks from other IBMers.
+
+Did you know?
+
+Allegations that may fall under the EU
+Whistleblowing Directive can be raised
+through Employee Concerns as well as
+other IBM Communication Channels.
+
+1. Integrity Means We Commit to Ethics and Compliance
+
+IBM Business Conduct Guidelines 9
+
+1.4 Cooperation
+
+IBM needs your cooperation to conduct investigations
+and audits for IBM’s internal controls and to respond to
+inquiries, audits or investigations by clients, regulators
+or others. You must fully cooperate in these matters. For
+example, promptly, completely and truthfully comply
+with all IBM requests; participate in meetings and
+interviews in a timely manner when requested; and
+provide and keep all relevant information (electronic or
+otherwise) as directed by IBM.
+
+1.5 No Retaliation
+
+IBM prohibits threats or acts of retaliation for (1)
+reporting in good faith potential wrongdoing or
+inappropriate behavior,(2)refusing to act in violation of
+the BusinessConductGuidelines, Corporate Directives
+or law, or (3) cooperating with an investigation. If you
+believe you have been retaliated against or received
+threats of retaliation, report it through one of the IBM
+Communication Channels, andIBM will take appropriate
+action.
+
+1.6 ExternalInquiries,
+Contacts and
+Communications
+
+IBM’s business is monitored by journalists, consultants,
+IT and securities analysts, investors, regulators and
+others. These people may see you as having valuable
+expertise, and they may ask you to give your insights to
+them, with or without compensation.If contacted, do not
+respond to them for IBM, whether in person, online
+through social media, by telephone or otherwise.
+Instead, promptly notify the contacts below to identify
+both the appropriate person to respond and the
+appropriate response:
+› IBM Communications, if contacted by journalists or
+bloggers
+› IBM Analyst Relations, if contacted by consultants or
+IT analysts
+› IBM Investor Relations, if contacted by securities
+analysts or investors
+› IBM Chief Sustainability Office, if contacted by
+environmental groups, government agencies, business
+associations, or individuals about any matter involving
+environmental policy, declarations, principles,
+practices, or programs
+› IBM Government and Regulatory Affairs, if contacted
+about public policy or lobbying matters
+› IBM Counsel, if you receive a request for information, a
+legal notice or an audit request related to IBM’s
+business from a client, attorney, investigator, law
+enforcement or other government official or if you are
+asked to testify on behalf of IBM in a legal proceeding
+or before an agency, legislative or other public hearing
+Nothing in the BCGs prohibits you from communicating
+directly with any government agency or entity, without
+prior consent of, or notification to, IBM to the extent
+permitted by law and applicable rules of professional
+responsibility, and you are not prohibited from talking
+about your terms and conditions of employment.
+
+1. Integrity Means We Commit to Ethics and Compliance
+
+10 IBM Business Conduct Guidelines
+1.7 SpeakingPublicly
+and Social Media
+
+When you speak out in a public forum or on social
+media, you must make it clear that you do so as an
+individual. Do not give the appearance of speaking or
+acting on IBM’s behalf – only certain people are
+authorized to do so. Anything said or written in public
+– from the town square to social media sites – will
+remain accessible longer than you intended, and may
+be read at any time by anyone – whether a client,
+competitor,colleague, journalist, investor orregulator.
+When using social media, follow IBM’s Social
+Computing Guidelines. Follow the IBM-Owned Social
+Media Guidelines authorization process and obtain
+your manager’s approval before submitting a request
+for a social handle using IBM’s name, trademarks or
+product names.
+
+Take note!
+
+If you, as an IBMer, wish to, or are asked to
+speak at an event:
+› contact your business unit's Communications
+support or email ibmpress@us.ibm.com
+before you agree or commit to the
+opportunity.
+› where investors or analysts will be the target
+audience or are likely to attend (for example,
+trade shows or client-sponsored events),
+contact Investor Relations to determine
+whetherIBM’s participation is appropriate and,
+if so,who should participate on IBM’s behalf.
+Even if you are simply attending an event (not
+as a speaker), be aware that you are not
+authorized to speak on IBM’s behalf to the
+media or analysts/investors in attendance.
+Forwardany inquiries you receive to IBM Media
+Relations or IBM Investor Relations,
+respectively.
+
+Integrity Means
+
+We ProtectIBM Employees,IBM Assets
+and Assets Belonging to Others
+
+IBM Business Conduct Guidlines 11
+2
+
+2. Integrity Means We Protect IBM Employees, IBM Assets, and Assets Belonging to Others
+
+12 IBM Business Conduct Guidelines
+2.1 Maintaining a Safe
+and Productive Work
+Environment
+
+IBM strives to maintain for its employees a healthy, safe
+and productive work environment free from discrimination
+and harassment, whether based on race, color, religion,
+gender, genderidentity or expression, sexual orientation,
+pregnancy,national origin, caste, genetics,disability, age or
+any other factors that are unrelated to IBM’s legitimate
+business interests, subjectto applicable law.IBM will not
+tolerate sexual advances or comments,racial orreligious
+slurs orjokes, or any other conduct, such as bullying,that
+creates or encourages an offensive or intimidating work
+environment. Familiarize yourself with Corporate Policy
+117,which demonstrates our commitment to fostering a
+work environment where every IBMer is able to thrive
+because of their differences, not in spite of them. Be
+mindful of Corporate Instruction HR 116, addressing
+harassment and bullying in the workplace, and be
+respectful and considerate of others when communicating
+your viewpoint or otherwise using social computing tools,
+such as Slack channels.
+
+IBM does nottolerate acts of violence in the workplace.
+Workplace violence may include incidents in the
+environment where we work and live. Refer to IBM’s
+Workplace Violence Program foradditional training and
+support.
+Other prohibited conduct, because of its adverse
+impact on the work environment, includes the following:
+› Threats or violent behavior
+› Possession of weapons of any type
+› A manager having a romantic relationship with a
+subordinate
+› Discrimination against any employee on the basis of
+any element of diversity
+› Use, distribution, sale or possession of illegal drugs or
+any other controlled substance, except for approved
+medical purposes
+› Being under the influence of illegal drugs, controlled
+substances used for non-medical purposes, or
+alcoholic beverages in the workplace
+› Consumption of alcoholic beverages on IBM
+premises, unless approved in advance by your
+manager
+If you believe you are the victim of or are concerned
+about a risk of prohibited workplace conduct, contact
+the Talk it Over @ IBM team or report it using one of
+the IBM Communication Channels.
+If IBM management finds that your conduct on or off
+the job adversely affects others or your ability to
+perform your job, IBM may take any action regarding
+your employment, including termination of employment,
+subject to applicable law.
+When using Slack, exercise good judgment and follow
+the BCGs, the Social Computing Guidelines, and
+guidelines for Slack usage found here.
+
+Take note!
+
+IBM is committed to the use of inclusive
+language. Your words matter. Avoid racial and
+cultural bias by following the Inclusive IT
+Terminology Guidelines.
+
+2. Integrity Means We Protect IBM Employees, IBM Assets and Assets Belonging to Others
+
+IBM Business Conduct Guidelines 13
+
+2.2 Protecting andUsing
+IBM Assets and Those
+Owned by Others
+
+IBM has extensive assets of great value. They are
+critical to IBM’s success in the marketplace, and you
+must protect them and cooperate with IBM's efforts to
+do so.
+IBM’s assets include, for example, physical assets and
+systems that IBM makes available to IBMers for work,
+IBM facilities and premises, IBM’s proprietary and
+confidential information and IBM intellectual property.
+Our business may also require us to access and use
+assets belonging to others, such as their proprietary
+and confidential information, intellectual property,
+systems, data or tools.
+
+You must use IBM assets, including IBM premises and
+facilities and physical assets and systems, only for
+IBM’s legitimate business purposes. IBM’s physical
+assets and systems include devices such as laptops,
+tablets and smartphones, information and
+communication systems, and connections to the
+Internet. Incidental personal use of physical assets and
+systems is permitted, however, if it is limited in
+duration, does not violate company policies, and does
+not affect your productivity or the productivity of others.
+Do not use IBM assets in ways that violate the law, that
+are inconsistent with IBM’s business interests orto visit
+Internet sites that feature sexual content or gambling,
+or that advocate intolerance of others.
+Use assets belonging to others, including clients, only to
+the extent permitted by the other party; make sure you
+fully understand and follow the other party’s terms and
+agreements as well as any laws that may restrict access
+to the assets based on privacy, citizenship or other
+requirements.
+
+Remember
+
+You play a critical role in identifying,
+eliminating and controlling health and safety
+risks.Takereasonable care for your health and
+safety and that of others.
+• Maintain accurate emergency contact
+information, including your mobile phone
+number, in the IBMer Safe Program, so that
+IBM may contact you in the event of an
+emergency.
+• Report unsafe conditions, accidents and near
+misses through your local process at Global
+Real Estate Safety.
+
+Did you know?
+
+IBM is committedtohigh standards of corporate
+responsibility across allfunctions of our business
+and that includes respecting and protecting
+human rights. As a global company, IBM
+recognizes its role in promoting an equitable
+and safe future for its employees, suppliers,
+clients, and the communities where we operate.
+IBM’s commitment to respecting all human
+rights is represented by the “IBMhuman rights
+principles” which can be found on the Data
+and Policies page of the IBM Impact site.
+
+2. Integrity Means We Protect IBM Employees, IBM Assets, and Assets Belonging to Others
+
+2.3 Sharing and Receiving
+Proprietary andConfidential
+Information
+
+IBM’s proprietary information and intellectual property
+are IBM assets. They are the result of the hard work and
+innovation of many IBMers, and they give IBM a
+competitive advantage.
+Some IBM proprietary information is confidential; often,
+such information is also subject to copyright, patent,
+trademark, trade secret or other intellectual property
+or legal rights. You may not share IBM confidential
+information with, or accept confidential information
+from, another party unless your manager has approved
+and IBM and the other party have signed a
+confidentiality or other suitable agreement approved by
+IBM Counsel.
+
+Improper disclosure ofIBM proprietary or confidential
+information could threaten IBM’s competitive advantage
+or createsecurity issues.Follow allIBM safeguards for
+protecting thatinformation and shareit only as authorized
+by IBM.
+2.4 AvoidingInadvertent
+Disclosure
+
+Be careful to avoid inadvertent disclosure of proprietary
+and confidential information, whether owned by IBM or
+others. Do not discuss this information with, or in
+earshot of, any unauthorized person, including family
+members or friends. They might – innocently or
+otherwise – pass the information on to someone else.
+
+14 IBM Business Conduct Guidelines
+Remember
+
+IBM proprietary information is any information
+that IBM owns, including:
+• Information about current andfuture products,
+services, research and development, or
+associated internal policies and processes
+• Business plans or projections, such as
+potential acquisitions or divestitures, or
+unannounced strategies or prospects
+• Earnings and other financial data
+• Software in object or source code form
+• Information in our online repositories and
+databases
+
+Take note!
+
+Audio and visual recordings could result in
+inappropriate disclosure of proprietary or
+confidential information, violate applicable law
+and/orinfringe the privacy of others. Subjectto
+local applicable laws, you may not, unless
+expresslyauthorizedbylaw,makeaudioor visual
+recordings of IBM confidential or proprietary
+information, business discussions or any
+other type in the working environment, unless
+you have a legitimate business need to make
+the recording and it is previously approved by
+management, unless you can use the video
+conferencing recordingfunctionality accordingto
+video conferencing recording rules here.
+Never record any conversations (live,
+telephone, video conferencing or otherwise)
+secretly or without notice to all participants.
+
+2. Integrity Means We Protect IBM Employees, IBM Assets and Assets Belonging to Others
+
+IBM Business Conduct Guidelines 15
+2.6 Protecting Assets,
+Business Interests and
+Employees
+
+2.5 GuardingAgainst
+Cyberthreats
+
+Third parties, like our clients, trust IBM with their data
+and other assets, and we rely on you to protect them
+– as well as IBM’s own data and assets.
+Violating IBM’s information security policies puts IBM
+assets, and assets belonging to others, like client data,
+at risk. Even well-intentioned actions, such as creating
+workarounds and shortcuts to improve service delivery
+or downloading unapproved third-party software, can
+violate IBM and client security policies and result in IT
+or data security breaches.
+If you are aware of or suspect an IT or data security
+issue or incident, or any loss of assets, including data,
+belonging to IBM or others, report it to the
+Cybersecurity Incident Response Team (CSIRT)
+immediately.
+
+We rely on you to protect IBM’s and others’ assets.
+IBM does not consider your use of IBM assets to be
+private. Therefore, you should not keep any personal
+items, messages or information that you consider
+private anywhere in IBM assets.
+To protect IBM employees, IBM assets and IBM
+business interests and subject to applicable laws,IBM
+reserves the right at any time to:
+› Inspect your use ofIBM assets and personally owned
+electronic devices (BYO devices), such as
+smartphones and portable storage media used to
+conduct IBM business or store IBM assets, your
+office or workspace and your personal property, such
+as briefcases and bags, located on or being removed
+from an IBM location
+
+What should I do ifIreceive
+unsolicited proprietary or
+confidential information?
+
+Proceed with caution to prevent any
+accusation that IBM misappropriated or
+misused the information. If you have a
+question about what to do if you receive an
+unsolicited email that includes proprietary
+information, contact IBM Counsel and be
+sure not to forward the email.
+
+2. Integrity Means We Protect IBM Employees, IBM Assets, and Assets Belonging to Others
+
+› Inspect, monitor, intercept and recover through
+technical or other means and review any employee
+communications (including any and all telephone
+conversations or transmissions, e-mails, texts, Slack
+messages and other instant messages on
+collaboration platforms or internet access or usage),
+records, files and other items in any electronic device
+or system, including but not limited to, computers,
+telephones and other systems, whetherIBM assets or
+BYO devices, at any and all times and by any lawful
+means for any purpose
+› Terminate your use of, or access to,IBM assets at any
+time, including access through BYO devices
+You are expected to cooperate with such inspections
+and IBM actions. IBM may share information and data
+with others, including its outside counsel, other advisors
+or law enforcement, subject to applicable law. Do not
+access another employee’s workspace, including e-mail
+and electronic files, without prior approval from your
+manager or the employee.
+For additional information on access to IBM assets and
+employee personal property, refer to Access to
+Property and Information.
+
+16 IBM Business Conduct Guidelines
+
+Take note!
+
+To protect IBM assets, including data and
+proprietary and confidential information, and
+assets belonging to others,take the following
+precautions:
+› Follow IBM’s information security
+policies, controls and processes.
+› Never share passwords.
+› Register all devices used for IBM business
+purposes, such as laptops, mobile phones,
+servers and personally owned electronic
+devices, such as smartphones and portable
+storage media, as required by IBM policy.
+› Follow the special legal or other
+requirements that apply to certain types of
+data, like health information.
+› Participate in scheduled IBM cybersecurity
+training.
+› Except as may be provided in another IBM
+policy, do not use any personal accounts
+(email, instant messaging, social media,
+cloud storage, videotelephony, etc.) to
+conduct IBM business.
+› Maintain accurate and up-to-date
+employee and contractor records to help
+ensure access credentials are appropriate.
+› Remove a supplier’s access to IBM data or
+delete the data yourself (or direct
+the supplier to delete it), as soon as the
+supplier’s need to access the IBM
+data ends.
+
+2. Integrity Means We Protect IBM Employees, IBM Assets and Assets Belonging to Others
+
+IBM Business Conduct Guidelines 17
+
+2.7 ManagingPersonal
+Information
+
+IBM takes your privacy seriously. Not all countries have
+data protection laws, but IBM has Privacy and Data
+Protection policies intended to protect personal
+information wherever we use, process or store it. Always
+comply with applicable privacy laws and IBM privacy
+policies.
+IBM’s business processes, management and systems
+cross country borders. To run its business and manage
+the employment of its personnel, subject to applicable
+data protection laws:
+› IBM and IBM-authorized companies and individuals
+collect and use personal information about
+employees, such as compensation, skills, use ofIBM
+assets, and medical and benefit information.
+› IBM may share this information with those who have a
+need to know, such as health insurers.
+› IBM and IBM-authorized companies may transfer
+personal information about you, as anIBM employee,to
+IBM-authorized companies orindividuals in any country
+where we do business.
+If, as part of your work, you have access to personal
+information of others, you may use such personal
+information only to the extent necessary to do yourjob
+and according to instructions issued by management
+and other Corporate Directives that apply. When
+compiling personal information, make it anonymous,
+when possible, to minimize risk.
+› Some personal information, such as health orfinancial
+information, is particularly sensitive and is subject to
+more stringent regulatory requirements, with which
+you must comply.
+› Do not disclose personal information to anyone who
+does not have a legitimate need to know such
+information,within or outside ofIBM, either during or
+after your employment.
+
+If you are aware of or suspect that personal information
+has been misused, lost, stolen or accessed
+inappropriately,reportitto the Cybersecurity Incident
+Response Team (CSIRT) immediately.
+
+2.8 Leaving IBM
+
+IBM assets and materials belong to IBM and you may
+not use them for personal purposes or in any
+subsequent employment you may have. Assets and
+materials include software, hardware, data and any
+otherinformation or material (such as employee data,
+financial information, marketing data, code, project
+files and product or program designs) you develop or
+work on during the course of your employment.
+If you leaveIBM for any reason, including retirement, you
+mustreturn allIBM assets and materials to IBM, including
+IBM assets and materials that are on BYO devices.Upon
+your departure, you may not remove any IBM assets or
+materials from IBM, either physically or through any
+digital means.Do not,for example,transferIBM assets or
+materials from any IBM repositories to a personal device
+or personal online storage.
+Never disclose or use IBM assets or materials for any
+purpose that violates the BCGs or otherwise in support
+of any subsequent employer. IBM continues to own
+intellectual property that you create as an IBM
+employee even after you leave IBM.
+
+Integrity Means
+
+We RespectIntellectual
+Property Rights
+3
+
+3. Integrity Means We Respect Intellectual Property Rights
+
+IBM Business Conduct Guidelines 19
+
+3.1 Protecting IBM
+Intellectual Property
+
+IBMers have access to, and may develop, IBM
+intellectual property.Intellectual property includes such
+things as inventions, software, publications, know-how
+and other related materials. We value our intellectual
+property; it helps provide protection, credibility and
+value to our development and innovation efforts for both
+open source project contributions and proprietary
+solutions.
+As an IBMer, you assumed specific obligations relating
+to intellectual property by virtue of applicable law and
+the employee agreement between you and IBM. This
+includes assigning to IBM rights in intellectual property
+relating to IBM’s current or anticipated business
+activities you develop while an IBM employee, unless
+otherwise approved by management in accordance with
+our On Your Own Time – Guidelines for Developing
+IP. Talk with IBM Counsel before you file for a patent or
+other intellectual property rights.
+
+May I participate in external
+standards development
+organizations?
+
+Engaging in external standards activities like
+the World Wide Web Consortium or the
+InternationalOrganization for Standardization
+– either on new projects with organizations
+IBM is already involved in or with new
+organizations altogether – could result in
+antitrust risk or loss of intellectual property
+rights. Follow the Standards Activity
+Review(SAR) Process before participating in
+standards activities.
+
+3. Integrity Means We Respect Intellectual Property Rights
+
+3.2 Using Third-Party
+
+Software, Apps, Cloud-
+based Services andData
+
+To protect our employees and our business, IBM
+restricts IBMers’ use of third-party software products
+(including apps), open source software, cloud-based
+services, generative AI tools, and data (together,
+third-party products).
+Some third-party products (including those available for
+“free” or at no charge such as open source software,
+external online language translation apps or tools) may
+not meet IBM security requirements or may contain
+malware that could threaten IBM’s network. They may
+have licenses and terms IBM cannot comply with, which
+can expose IBM to audits, license fees and other
+intellectual property claims by others.
+Whether you are using an IBM-provided device (laptop,
+tablet or smartphone) or aBYO device,make sure you use
+third-party products forIBM business purposes only ifIBM
+
+20 IBM Business Conduct Guidelines
+
+hasapproved theiruse andIBMhas been granted a license
+to use them in the ways you intend. If you’re using open
+source software, follow IBM's Open Source Participation
+Guidelines as well. Some third-party products may be
+approved for certain uses, but not for others. Make sure
+you understand any applicable restrictions.
+
+3.3 UsingOpen Source
+Software
+
+IBM has a strong history of contributing to and
+consuming open source projects. There are many
+benefits to IBM and our clients gained from engaging in
+open source,butit mustbe done responsibly according
+to IBM guidelines to maximize value and manage both
+cybersecurity and intellectual property risks.AllIBMers
+who are consuming or contributing to open source
+software, such as software developers, offering managers,
+program managers,researchers and others,mustfollow
+IBM's Open Source Participation Guidelines.
+
+Watch out!
+
+The default settings on some third-party
+products are set at “public” – which means
+that anything you do or post can be visible to
+others on the internet. This could resultin the
+loss of proprietary or confidential information
+belonging to IBM or others. Make sure you
+follow IBM security guidelines and use the
+proper security and privacy settings.
+
+What is the right way to acquire a
+third-party product to use forIBM
+business purposes?
+
+You can:
+• Purchase it through Procurement, using
+established Procurement procedures; or
+• Obtain itfrom an approved IBM source
+on w3orthrough an external app store, as
+directed by IBM.
+
+3. Integrity Means We Respect Intellectual Property Rights
+
+IBM Business Conduct Guidelines 21
+
+3.4 DevelopingApplications
+for Mobile Devices
+
+Follow the IBM Mobile Development Guidelines if you
+create IBM applications for mobile devices. The rules for
+distributing applications on certain devices are strict.
+Make sure you know what is allowed. Obtain prior
+approval from your manager before using development
+kits or other tools that have not been approved.
+
+3.5 ProtectingTrademarks
+and Domain Names
+
+Trademarks are words, names, symbols or designs used
+to identify and distinguish a company and its products or
+services, and they are valuable assets. Use IBM’s and
+other companies’trademarks properly and acknowledge
+the trademarks of others, when appropriate. For
+guidance, refer to IBM’s Copyright and Trademark
+Information.
+Do not develop or use a word, name, symbol or design
+as a trademark without first going through the Naming
+Tool Process. In addition, you may not, directly or
+through another party,register domain names on IBM’s
+behalf or create websites for IBM that will be available
+on the Internet (outside of IBM.com) without approval
+from the Corporate Webmaster.
+
+Did you know?
+
+Content, images or otherfiles may be easy
+to download from the Internet and may
+be free, but beware – they are likely still
+subject tolicense restrictions. Make sure you
+fully understand and follow the terms and
+conditions associated with any downloaded
+content, images or other files.
+
+4
+
+Integrity Means
+
+We Are Honest, Accurate and
+Complete
+
+22 IBM Business Conduct Guidelines
+
+4. Integrity Means We Are Honest, Accurate and Complete
+
+IBM Business Conduct Guidelines 23
+
+4.1 Be Honest
+
+The rules are simple: never make misleading or
+dishonest statements to anyone, and never engage in
+activities that could be considered unethical,fraudulent
+or otherwise unlawful.
+
+4.2 Reporting and
+Recording Information
+
+As IBMers, we regularly provide to IBM and others
+information and data, such as requests for
+reimbursement of business expenses, hours worked on
+client projects, or certifications.
+We rely on IBMers like you to record and report
+accurate, complete and honest information.
+Under various laws, IBM is required to maintain
+accurate books and records. Misrepresentation can
+lead to civil and criminal penalties for both you and
+IBM, and the loss of business privileges, such as the
+right to bid on business, export or import products or
+even remain in business.
+
+Record and report only accurate, complete and honest
+information. Never report information in a way that is
+intended to mislead or misinform those who receive it.
+If you are unsure about the accuracy or completeness
+of any information, don’t guess. Ask for help.
+If you believe any information you’ve recorded or
+reported to IBM or others is incorrect or has been
+misunderstood or if you’re reviewing information
+submitted by others that appears to be incorrect,
+promptly notify your manager and IBM Counsel to
+determine the appropriate next steps.
+
+Remember
+
+Both making false statements andomitting
+important facts are wrong.
+
+Watch out!
+
+Some examples of dishonest orfraudulent
+reporting include:
+
+› Submitting false or inaccurate expense
+reimbursement requests
+› Inaccurately recording the number of hours
+worked or failing to report time (or overtime
+in accordance with IBM guidelines) worked,
+whether or not charged to a client
+› Submitting inaccurate information to IBM’s
+tools or processes
+› Providing inaccurate or incomplete
+information toIBM or other parties, including
+during investigations, audits or other reviews
+› Making false or misleading statements in (or
+omitting material information from) external
+reports or other documents submitted to
+government agencies
+
+4. Integrity Means We Are Honest, Accurate and Complete
+
+4.3 Understanding Financial
+Controls and Reporting
+
+As a public company,IBM mustfollow strict accounting
+principles and standards, report financial information
+accurately and completely, and have appropriate
+internal controls and processes to ensure that our
+accounting and financial reporting complies with law.
+
+Violating accounting and financial reporting laws can
+result in significant fines, penalties and imprisonment.
+The rules for accounting and financial reporting require
+the proper recording of, and accounting for, revenues,
+costs, expenses, assets, liabilities and cash flows.If you
+have responsibility or involvement in these areas, you
+must understand and follow these rules. These rules
+also prohibit you from assisting others to record orreport
+any information inaccurately, make false or misleading
+financial reports or evade tax. Never provide advice to
+others, including clients, suppliers or IBM business
+partners, about how they should record or report their
+own revenues, costs, expenses, assets and liabilities.
+If you are aware of or suspect any improper or
+unethical accounting orfinancial reporting, immediately
+inform IBM Accounting, Corporate Assurance and
+Advisory Services or IBM Counsel, or report it through
+one of IBM’s other Communication Channels.
+
+4.4 MakingCommitments
+and Obtaining Approvals
+
+IBM has established approval processes and delegation
+levels to help us protect our assets, maintain
+appropriate controls and run our business effectively.
+
+24 IBM Business Conduct Guidelines
+Take note!
+
+IBM mustrecognize revenue accurately. Be sure
+to discuss with IBM Accounting, your manager
+or CFO team all factors that could impact
+revenue recognition, such as deviations from
+standard IBM payment terms, non-standard
+warranties, contingencies in deals or deviations
+from customary ordering procedures.
+Did you know?
+
+Always be accurate and honest when labor
+claiming – whetherreportinghours to be billed
+to a client orto measure againstinternal goals.
+Never over or under report. Report accurately.
+If you don’t understand the proper way to claim
+yourtime, ask your manager or visit AskHR.
+
+Watch out!
+
+Do not make verbal arrangements or
+commitments, or enterinto unapproved
+written commitments or side deals.
+
+4. Integrity Means We Are Honest, Accurate and Complete
+
+IBM Business Conduct Guidelines 25
+
+Understand and follow the approval processes and
+delegation levels that apply to your role. Do not make
+business commitments, including modifications to
+pricing, contract or service terms, without appropriate
+approvals or contrary to delegation limits. All
+commitments must be reported to IBM Accounting to
+ensure the accuracy of IBM’s books and records.
+
+4.5 Retaining Records
+
+Our records are valuable assets. Always follow the IBM
+Worldwide Records Management Plan and document
+retention orders issued by IBM Counsel forretaining and
+disposing of IBM records. The Plan applies to
+information in any media, including hard copy and
+electronic records, e-mail, wikis, blogs, apps and
+records in collaboration tools (whether on the IBM
+network or one operated by others).
+
+Take note!
+
+IBM’s internal processes and controls are
+implemented to help ensure we do business
+the right way. Make sure you understand which
+IBM processes and controls apply to what you
+do.If you’re unsure, ask!If you think a process
+or control is unclear or could be improved, talk
+about it with your manager, the process
+owner, or the Risk, Compliance and Integrity
+Team.
+Don’t bypass a process or control without an
+authorized exception, and if you see others
+bypassing, say something.If a client or other
+third party asks you to bypass IBM’s (or their
+own) controls, or assist them in doing so,
+notify your manager.
+
+Integrity Means
+
+We Compete, Win Business and
+Treat Others Ethically
+
+26 IBM Business Conduct Guidelines
+5
+
+5. Integrity Means We Compete, Win Business and Treat Others Ethically
+
+IBM Business Conduct Guidelines 27
+
+5.1 Working with
+OrganizationsOutsideofIBM
+
+Whether you are selling, buying or representing IBM in
+any other capacity, you must be ethical and lawful in
+your business dealings. Your actions can directly affect
+IBM’s competitiveness,reputation and compliance with
+applicable laws.
+IBM regularly works with other organizations –
+subcontractors, suppliers, consultants, agents, IBM
+Business Partners and competitors – and frequently has
+multiple relationships with these companies. You must
+understand these relationships and act in accordance
+with our guidelines.
+Workingwith other parties can presentrisks – IBM can be
+held liable for the misconduct of others, such as agents,
+consultants orIBM Business Partners. For example, if we
+know or have reason to believe a Business Partner will
+offer or accept a bribe or kickback, IBM may be held
+accountable, even if IBM does not authorize or condone
+it. We require other parties with whom we interact to
+comply with many IBM guidelines and meet our high
+standards ofintegrity in theirwork for us.If you are aware
+of or suspect another party is acting unethically or
+illegally, immediately report your concern to IBM Counsel
+or through one of IBM’s Communication Channels.
+
+5.2 Working with
+Government Entities and
+other GOEs
+
+IBM engages with government-owned or -controlled
+entities (which we refer to as GOEs) in many ways – for
+example, as IBM clients, suppliers, consultants or IBM
+Business Partners. GOEs include both government
+entities and state-owned enterprises.
+
+Government entities are government agencies,
+departments, branches, instrumentalities and public
+enterprises,whetherregional, national, orlocal, aswell as:
+› Government-owned or-controlled schools, hospitals,
+utilities and other organizations that provide public
+services;
+› Public international organizations, such as the United
+Nations or World Health Organization; and
+› Entities that procure under public procurement laws
+and regulations.
+State-owned enterprises can be any other type of
+entity, even those that are privately held or publicly
+traded, that are owned, controlled, organized, or
+sponsored by a GOE or a government official. A
+government official is an officer or employee of a GOE
+as well as any private individuals or entities acting in an
+official capacity on behalf of one.
+Dealing with GOEs, their representatives and
+government officials or their family members raises
+unique business and compliance issues, and you must
+follow IBM’s established processes and controls to
+
+Did you know?
+
+Ownershipalone does not determine the
+status of an entity. Ask yourself:
+› Are the employees of the entity public
+officers or civil servants?
+› Does a government entity or GOE “control”
+the entity,for example,through the ability to
+appoint directors or senior management or
+through regulations?
+› Are its activities financed by a government
+entity?
+If the answerto any of these questions is yes, it
+is likely that the entity is a GOE.
+
+5. Integrity Means We Compete, Win Business and Treat Others Ethically
+
+address them. Before you engage in any business
+activity, including marketing or sales activities, it is your
+responsibility to determine if the party you are dealing
+with is a GOE or a government official (or a family
+member of one). If you are uncertain, don’t guess.
+
+5.3 Working with Suppliers
+
+IBM works with many suppliers worldwide, purchasing
+both for its internal use and in support of client
+engagements. In general, all purchases from suppliers
+must be negotiated, signed, and managed by IBM
+Global Procurement, unless a delegation is in place.
+In deciding among competing suppliers, whether you
+are a procurement professional or a business person
+involved in a purchasing decision, we weigh the facts
+impartially to determine the best supplier, regardless of
+whether it is a large or small purchase.
+You must not exert or attempt to exert influence to
+obtain special treatment for a particular supplier. Even
+appearing to do so can undermine the integrity of our
+established procedures. Similarly, avoid conflicts of
+interest in a procurement transaction by following the
+principles in Section 7.2.
+As a general principle, IBM does not buy or sell on a
+reciprocity basis. To maintain the high standards of our
+products, we should base our purchasing decisions on
+quality, price and supplier reliability. Also, reciprocity
+may be unlawful in some situations.
+Of course,IBM clients can also be suppliers to IBM, and
+it can be appropriate for IBM to consider its other
+relationships with a supplier in some cases. For
+example, when IBM divests part of its business, IBM
+often buys products in the divested business area from
+the acquiring company. Direct questions about
+reciprocity to IBM Procurement.
+
+5.4 Working with IBM
+Business Partners,
+Resellers andOthers
+
+To help market and install IBM solutions, IBM has
+relationships with many other parties, such as IBM
+Business Partners,Independent Software Vendors,
+resellers and systems integrators.
+If you work with these parties, you must follow the
+sales, marketing and services guidelines that apply,
+including the Guidelines for Working with IBM
+Business Partners. You must also understand and
+abide by any specific requirements forIBM Business
+Partners and other similar parties when dealing with
+government entities and other GOEs.
+
+5.5 DealingwithCompetitors
+
+Competition laws, also known as monopoly, antitrust,
+fair trade or cartel laws, are intended to prevent
+interference with the functioning of a competitive
+market system and existin almost all countries where
+we do business.
+
+28 IBM Business Conduct Guidelines
+
+Watch out!
+
+Exchanging competitive information with
+employees of a competitor can be a crime in
+certain circumstances.
+
+5. Integrity Means We Compete, Win Business and Treat Others Ethically
+
+IBM Business Conduct Guidelines 29
+
+Prohibited conduct may include: colluding with others
+to fix prices or divide territories, illegally monopolizing
+an industry or unlawfully abusing a dominant position.
+Contacts with competitors require extra care. Avoid
+discussion of or collaboration on proprietary or
+confidential information, including pricing policies,
+contract terms, costs, inventories, marketing and
+product plans, market surveys and studies, production
+plans and capabilities, and allocating clients or
+territories. Such discussions may be illegal.
+If a competitor raises a prohibited subject, stop the
+conversation immediately and inform the competitor
+that you will not discuss these matters. If the
+competitor continues to discuss the prohibited subject,
+leave the meeting and immediately report the incident
+to IBM Counsel.
+Collaborating with competitors creates risk. It is your
+responsibility to understand the rules that apply to such
+activities and to avoid prohibited subjects. Obtain prior
+approval of your manager and seek advice from IBM
+Counsel before collaborating with competitors,
+including competing IBM Business Partners.
+
+5.6 Competing Ethically
+
+IBM sells its products and services on their merits. You
+should compete vigorously for business, but always
+ethically and in compliance with our policies and the
+law, no matter how competitive the environment.
+Never make false or misleading statements aboutIBM
+and its products and services or other companies,
+including competitors and their products and services.
+Always be accurate, complete and honest. Be sure all
+comparisons to competitors are substantiated. In
+certain countries, comparative advertising is prohibited
+or limited.
+
+Are any communicationswith
+competitors acceptable?
+
+Yes. IBM and its competitors may attend
+conferences or trade association meetings
+where subjects of general interest are
+discussedwithout violating the law.Other
+acceptable contacts include sales to and
+purchases from other companies in our
+industry and approved participation in
+joint bids. IBMers may also participate in
+Open Source communities and Standards
+DevelopmentOrganizations with competitors,
+provided proper care is taken with IBM
+proprietary information.
+
+5. Integrity Means We Compete, Win Business and Treat Others Ethically
+
+pay a competitor’s employees to obtain such
+information. Do not accept or use information if you
+have reason to believe it may have been obtained
+improperly or illegally.
+Treat information about other organizations and
+individuals with sensitivity and discretion. Use it in the
+proper context and consistently with the purpose for
+which you were provided access. Share it only with
+those who have a legitimate need to know. Whenever
+possible, aggregate or anonymize information to avoid
+disclosing the identity of organizations or individuals.
+
+5.7 Acquiring and Using
+InformationAboutOthers
+
+In today’s highly competitive environment, it is critical
+that IBMers know and understand our competitors’
+offerings. Follow Corporate Instruction IPL 130 when
+acquiring information about our competitors’ offerings.
+IBM may also acquire information about individuals or
+organizations, including competitors, that we do
+business or engage with. IBM properly gathers this kind
+of information from legitimate sources for legitimate
+purposes, including extending credit, evaluating
+suppliers and evaluating our own products, services and
+methods.
+Do not engage in or facilitate any improper or illegal
+practices, such as wiretapping, surveillance, hacking,
+bribery, theft, trespassing, misuse of social platforms or
+pretexting, to gatherintelligence or obtain trade secrets
+or confidential or sensitive information. Do not hire or
+
+30 IBM Business Conduct Guidelines
+
+Take note!
+
+IBM manages valuable data of our clients.
+Trust, transparency, privacy, and ethics as
+outlined in the IBM Principles for Trust &
+Transparency must guide both our handling
+of client data and insights and ourresponsible
+development and deployment of new
+technologies, including artificial intelligence
+products and services. Adhere to the Tech
+EthicsbyDesignCorporateDirective in the
+design, procurement, development, delivery
+and operational lifecycle of applicable IBM
+products, services, and internal activities.
+
+Watch out!
+
+If you receive a competitor’s confidential
+information (such as a pricing proposal), by
+mistake or intentionally, from a client or other
+party,do not reviewit, distribute it or otherwise
+use it. Instead, immediately call IBM Counsel
+or the Risk, Compliance and Integrity Team
+for guidance on how to proceed.
+
+Integrity Means
+
+We Meet Our Legal Obligations
+
+IBM Business Conduct Guidelines 31
+
+6
+
+6. Integrity Means We Meet Our Legal Obligations
+
+32 IBM Business Conduct Guidelines
+6.1 ProtectingAgainst
+Corruption
+
+IBM prohibits bribery and kickbacks of any kind. Never
+offer or give anyone, or accept from anyone, anything of
+value that is, or could be viewed as, a bribe, kickback or
+otherimproper benefit, and neverimproperly attempt to
+influence that person’s or entity’s relationship with IBM,
+whether to obtain or retain business or get some other
+benefit. And do not make such payments or offer such
+benefits through others, such as agents, contractors,
+consultants, IBM Business Partners, trade associations
+or suppliers.
+Likewise, we expect everyone we interact with –
+including suppliers,IBM Business Partners, agents,
+contractors and consultants – notto accept or offer
+bribes or kickbacks.
+
+Anti-corruption laws around the world make bribery a
+crime. Some laws, like the U.S. Foreign Corrupt
+Practices Act and Brazil’s Clean Company Act, focus on
+bribery of government officials or employees of
+government entities or other GOEs. Others, like the UK
+Bribery Act, also prohibit bribery of employees of
+commercial entities.
+
+Whatis “anything of value”?
+
+Anything of value means just that: Anything,
+including money, meals, gifts, entertainment,
+transportation, travel, accommodations,
+event entrance fees, charitable contributions
+and even employment or internships (paid
+and unpaid).
+
+Watch out!
+
+When working with IBM Business Partners,
+suppliers or others,watch for warning signs of
+corruption and bribery, such as:
+› Discrepancies in records or unexplained
+payments
+› Deep discounts, high margin or abnormally
+high prices
+› Lack of skills or resources to do the job
+› Parties with no legitimate purpose in the
+deal
+› Extravagant expenses
+› Suspicious personalrelationships or
+business arrangements
+
+6. Integrity Means We Meet Our Legal Obligations
+
+IBM Business Conduct Guidelines 33
+
+6.2 Giving and Receiving
+Business Amenities and
+Gifts
+
+In our day-to-day business activities, we may offer and
+receive customary business amenities (like meals and
+entertainment) and, in limited circumstances, gifts, to
+promote IBM products and services, build goodwill and
+strengthen working relationships. You must follow IBM
+processes and obtain required pre-approvals before
+giving orreceiving business amenities and gifts. Review
+Corporate Instruction Fin/Leg 168 for additional
+guidance.
+Giving
+Get your manager’s approval before giving business
+amenities or gifts to others. Approval must be obtained
+through the Compliance with Transportation,
+Entertainment, and Business Amenities (CTEBA)
+process before giving amenities
+
+over a certain value to government officials, employees
+of government entities, other GOEs or, in some
+countries, employees of commercial entities.
+Many jurisdictions restrict giving amenities or gifts,
+directly orthrough others, to a government official or an
+employee or representative of a government entity,
+other GOE or, in some cases, commercial party. Make
+sure you understand the anti-bribery laws, ethics rules
+and gift and other laws that apply where you work
+before offering anything of value to anyone. If you have
+any questions, don’t guess. Ask your manager,
+Government and Regulatory Affairs, IBM Counsel or the
+Risk, Compliance and Integrity Team – they can help.
+Employment and Internships: Never promise or provide
+employment or internships for the purpose of obtaining
+a business advantage or other preferential treatment
+forIBM. Hiring must be done in accordance with
+applicable IBM Human Resources policies and
+processes.
+Charitable Contributions: Follow IBM Corporate Social
+Responsibility policies and processes before giving a
+charitable contribution, grant or donation on behalf of
+IBM. This includes sponsoring events hosted by
+non-profits,purchasing tables at events and making
+other contributions of any kind. Never make, or ask
+someone else to make on IBM’s behalf, a charitable
+contribution to obtain a business advantage or
+preferential treatment for IBM.
+Receiving
+Neither you nor any member of your family may, directly
+or through others, solicit or accept from anyone money,
+gifts, referral fees, meals, entertainment,
+transportation, travel or any other business amenities
+that could influence, or reasonably give the appearance
+of influencing, IBM’s business decisions. If you or your
+family members receive any gift or business amenity
+(including money), even if unsolicited, notify your
+manager and take appropriate measures, which may
+include returning or disposing of what you received.
+
+Did you know?
+
+In the health care space, there are often
+restrictions on the giving of financial benefits
+or anything of value to providers of health
+care services, including doctors, nurses
+and hospitals. This is to prevent improper
+influences on purchasing decisions. “Anything
+of value” could include sales contract
+concessions and payments for consultant
+services. Consult with IBM Counsel in
+advance to confirm the appropriateness of any
+arrangements.
+
+6. Integrity Means We Meet Our Legal Obligations
+
+34 IBM Business Conduct Guidelines
+6.3 Avoiding Money
+Laundering and Funding
+Terrorist Activities
+
+We must comply with applicable laws prohibiting money
+laundering and terrorism financing. IBM has
+implemented policies and processes to help prevent
+and detect inappropriate or suspicious activities.
+Employees who are responsible for making orreceiving
+payments on behalf ofIBM must guard against the use
+of our funds, products and services for purposes of
+money laundering,terrorism financing or other criminal
+activity.
+Report any suspicious transactions or payments, or raise
+questions to your manager, IBM Counsel, your local IBM
+Anti-Money Laundering Officer, if applicable, or through
+IBM’s other Communication Channels.
+
+6.4 Selling in the Public
+Sector
+
+Public sector procurement laws are designed to ensure
+that products and services sold to, or for the benefit of, a
+government entity or other GOE are procured at fair and
+reasonable prices. The regulations and procedures
+around public sector procurement are complex and vary
+widely. It is your responsibility to identify and comply
+with applicable regulations and procedures.
+› Sole source: IBM accepts sole source contracts only
+if the client has made an exception to competitive
+procurement rules and IBM has not improperly
+influenced that exception. Review all potential sole
+source procurements with IBM Counsel or Contracts
+& Negotiations before proceeding, and comply with
+any applicable sole source guidelines in your country.
+› Access to information: Do not, directly or indirectly,
+obtain oral or written information (including advance
+copies of solicitation or tender documents and
+government planning and budgetary documents) that
+has notbeen made available to the general public orto
+all bidders, orthatis subject to restrictions regarding its
+use. Do not seek or obtain non-publicly available
+
+information regarding competitors’ bids orthe decision-
+making process ofthe government entity or otherGOE.
+
+It is your responsibility to make sure you have only
+appropriate information.If you are uncertain about any
+information, consult with IBM Counsel.
+› Pre-bid activities: Be careful when communicating
+with government agencies on procurement matters
+– contact the agency only through the person(s)
+designated by the governmentfor a solicitation. Donot
+prepare a solicitation document on behalf of a public
+sector client, even at the client’s request; submit any
+anonymous documents, such as white papers, to a
+public sector client; or encourage a public sector client
+to sign an agreement before an award is made to IBM.
+Doing so may prevent us from subsequently bidding.
+
+Watch out!
+
+Be alert for suspicious transactions, such as:
+› Payments made in currencies otherthan the
+currency specified in the contract
+› Over-payments and requests for refunds
+› Unusual fund transfers to orfrom parties or
+countries not involved in the deal
+
+6. Integrity Means We Meet Our Legal Obligations
+
+IBM Business Conduct Guidelines 35
+
+› Hiring and business opportunities: Do not discuss
+business or employment opportunities that could
+personally benefit any public sector employees
+involved in procurement planning ordecisions (ortheir
+family members) before or during the course of a bid.
+Ethical and legal restrictions may apply – before and
+afterIBM wins the bid and on an ongoing basis during
+and after government employment.
+› Fulfillingcontract requirements:Donotship,provide or
+invoice products and services to a government entity or
+other GOE until IBM receives a valid order (e.g.,
+purchase order) containing terms and conditions
+acceptable to IBM.
+› Using agents and consultants; teaming with
+competitors: Prior approval of IBM Global
+Procurementand IBM Counsel is required before using
+anyagents or consultants on public sector procurement
+deals.Teaming with competitors on public sector deals
+presents several risks – consult with IBM Counsel.
+› Contingentfees: A contingent fee is a fee paid by one
+party to another party for securing business for the
+first party. Some jurisdictions prohibit paying or
+receiving contingent fees for sales to a government
+entity or other GOE. Get approval from IBM Counsel
+and Finance before agreeing to contingent fees or
+other incentives.
+
+If you have any questions, need help or are aware of or
+suspect any violation of these guidelines or of a public
+sector procurement law, consult your manager, IBM
+Counsel, Contracts & Negotiations or the Risk,
+Compliance and Integrity Team.
+
+6.5 Lobbying
+
+Any contact with government personnel intended to
+influence legislation, policies or government action
+may be considered lobbying, including submissions in
+response to government requests for comments on
+public policy matters. Under some laws, lobbying even
+includes normal marketing, procurement and sales
+activities directed to government customers. You are
+responsible for knowing and complying with all
+relevant lobbying and associated gift laws and
+reporting requirements. You must obtain prior approval
+from Government and Regulatory Affairs to lobby or to
+authorize anyone else – like a consultant, agent, trade
+association or IBM Business Partner – to lobby on
+IBM’s behalf.
+
+Watch out!
+
+Current andformer governmentemployees
+may need government clearance before
+discussing employment with IBM.
+Requirements differ by jurisdiction – check
+with IBM Counsel.
+
+6. Integrity Means We Meet Our Legal Obligations
+
+36 IBM Business Conduct Guidelines
+6.6 Visiting IBM Property –
+Government Officials
+andCandidates forPublic
+Office
+
+Political campaigning is not allowed on IBM property.
+Get approval from Government and Regulatory Affairs
+before inviting current or former public officials and
+candidates for public office to an IBM site or
+IBM-sponsored event.
+
+6.7 Complying with
+International Trade
+Requirements
+Export Controls and Sanctions
+Because IBM is a U.S. company, its hardware and
+software products, services, source code, technical
+data and technology are subject to both U.S. and local
+export controls and economic sanctions laws,
+regardless of your work assignment or location. Export
+controls and economic sanctions laws affect many IBM
+transactions, including intra-company transactions;
+technology transfers; transactions with other parties,
+including clients, suppliers, and original equipment
+manufacturers; and use of IBM Business Partners or
+others to complete a delivery or provide a service.
+Before IBM products, services or technology can be
+exported, re-exported or delivered anywhere, IBM
+must validate that it has the authorization to provide
+those items under U.S. and applicable non-U.S. export
+and sanctions laws. All IBM business must comply with
+the U.S. Export Regulations Program, available here.
+
+Defense Articles and Services
+If IBM’s business with government agencies or
+contractors involves the provision (including brokering)
+of products, technical data or services relating to
+military applications or defense articles, Corporate
+Instruction GRA 104, under the International Traffic in
+Arms Regulations (ITAR), may apply to your activities.
+U.S. Government authorization is required prior to any
+transfer or disclosure of U.S. defense articles or
+services outside the U.S. or to non-U.S. persons. Other
+countries apply similar restrictions on transfers and
+disclosures of their defense articles and services.
+
+Will IBM reimburse travel
+expenses or pay honoraria for
+public officials in connection with
+an IBM speaking engagement?
+
+If permitted by applicable law and with prior
+approval of IBM Government & Regulatory
+Affairs, IBM may reimburse the actual and
+reasonable travel expenses incurred by a
+public official in connection with an approved
+IBM speaking engagement, butIBM generally
+does not pay honoraria.
+
+6. Integrity Means We Meet Our Legal Obligations
+
+IBM Business Conduct Guidelines 37
+
+Imports
+IBM must also comply with all import laws, regulations
+and requirements when engaging in international trade,
+including IBM’s obligations under supply chain security
+and other trusted partnership programs. In addition to
+the cross-border movement of physical items, import
+implications may result from other activities, such as:
+› Change in manufacturing location, processes or
+source of supply
+› Client activity requiring cross-border delivery
+› Shipment of marketing samples or prototypes
+cross-border
+› Calculation of productintra-company prices for sales
+to an IBM location in another country
+› Determination of product country of origin
+› Maintenance of accurate data and records for product
+inventory, sales and shipment
+
+6.8 Complying with
+AntiboycottRequirements
+
+IBM, its subsidiaries and affiliates, and their agents are
+prohibited from complying with or supporting a foreign
+country’s boycott of a country that is friendly to the
+United States.IBM is required to report promptly to the
+U.S.Government any request to support a boycott or to
+furnish information regarding a boycott.
+
+Remember
+
+Exportlaws andregulations cover,for
+example:
+› Physical shipments, electronic transfers and
+remote access to software or technology
+› Design, development and delivery of
+hardware, software and solutions
+› Travel outside theU.S. with IBM products,
+technology or assets (such as a tablet or
+laptop)
+› Providing technical specifications and
+performance requirements to suppliers
+› The transfer of personal knowledge or
+technical assistance outside the U.S. or
+country of residency
+› Disclosures of IBM technology to recipients
+who are not citizens or permanentresidents
+of the country in which they are located
+
+Take note!
+
+IBM’s Import Regulation Office and
+ExportRegulation Office can answer
+questions about IBM’s import and
+export control requirements.
+
+6. Integrity Means We Meet Our Legal Obligations
+
+38 IBM Business Conduct Guidelines
+
+authorizations and documentation, such as a work
+permit or a work visa, are usually required prior to
+traveling if you are going to perform productive work in
+another country. Always comply with IBM requirements
+for cross-bordertravel and provide accurate information
+to the IBM Immigration team. The consequences for
+failing to do so can be serious for both you and IBM.
+
+6.10Protecting the
+Environment
+
+6.9 MeetingCross-Border
+Travel Requirements
+
+Cross-border travel for IBM business can raise
+immigration, payroll, corporate and tax requirements
+and obligations underIBM internal policies orthe laws
+of the destination country. For example, valid work
+
+IBM is committed to worldwide leadership in
+environmental protection.If yourjob involves processes
+that affect the environment, such as measuring,
+recording or reporting discharges and emissions to the
+environment or handling hazardous waste, always
+comply with applicable environmental regulations and
+permits, as well as IBM’s environmental policies. If you
+are aware of or suspect a violation of environmental law
+or any action intended to cause or conceal a violation,
+immediately report the matter to IBM Counsel. Visit
+IBM’s Chief Sustainability Office website for more
+information on IBM’s Environmental Policy and
+Programs.
+
+Remember
+
+Contact the Export Regulation Office about any
+boycott-related requests, including requests
+to: refuse business involving a particular
+country, its citizens or companies active in that
+country, issue negative origin certificates, or
+provide information about business activities in
+a boycotted country.
+
+IBM Business Conduct Guidelines 39
+1. Our Commitment to Integrity and Compliance
+
+7
+
+Integrity Means
+
+We SeparateOur PersonalInterests
+From Our Business Responsibilities
+
+7. Integrity Means We Separate Our Personal Interests From Our Business Responsibilities
+
+7.1 Acting onYour Own
+Time
+
+Your private life is very much your own. Nonetheless, as
+an IBMer, your activities, both on and off the job, can
+affect IBM’s business interests.
+
+7.2 Avoiding Conflicts of
+Interest
+
+A conflict of interest occurs when you advance a
+personal interest at the expense of IBM’s interests.
+Remember: a personal interest can be a direct benefit
+to you or a benefit to a family member or close friend. It
+is up to you to avoid any activity that creates, or appears
+to create, a conflict between your personal interests and
+the interests of IBM. Disclose to your manager any
+actual or potential conflict of interest, and discuss
+possible ways to mitigate or eliminate the conflict. Your
+primary responsibility is to IBM, and any conflict must
+be resolved in IBM’s favor.
+Supplying IBM
+You may not be a supplier to IBM or work for a supplier to
+IBM in any capacity – as an employee, a representative, a
+
+40 IBM Business Conduct Guidelines
+
+consultant or a member of its board of directors or an
+advisory board or council – unless you obtain the prior
+approval of senior management and IBM Counsel.
+You may not accept money or other benefits of any kind
+for any advice or services you may provide to a supplier
+in connection with its business with IBM. You may,
+however, accept promotional discounts generally
+offered to the public by transportation companies,
+hotels, auto rental agencies and restaurants.
+Assisting a competitor
+Providing assistance to a competitor is an obvious
+conflict of interest, and you may not work for a
+competitor of IBM in any capacity – as an employee, a
+representative, a consultant or a member of its board of
+directors or an advisory board or council.
+Engaging in Other Outside Activities
+Outside the office, you maywish to engage in activities that
+generally relate to technology, business advice or other
+products or services IBM offers its clients. However, any
+outside activities, including working for another company
+or starting your own business, could resultin a conflict of
+interestif,for example,the outside activity competes with
+IBM’s business interests or advances the interests of
+
+Did you know?
+
+Membership on the board of directors, advisory
+board, advisory council or similar position at
+another company could result in a conflict with
+IBM’s interests. You must getthe prior review
+and approval of senior management and IBM
+Counsel.
+
+Remember
+
+You may only use your IBM provided assets
+for incidental personal use.Also, any approved
+outside activities you undertake may not
+interfere with your IBM work and you may not
+use IBM proprietary or confidential information,
+or information entrusted to IBM by those we do
+business with, in connection with such activities.
+
+7. Integrity Means We Separate Our Personal Interests From Our Business Responsibilities
+
+IBM Business Conduct Guidelines 41
+
+another company at IBM’s expense. Because IBM is
+rapidly expanding into new linesofbusiness and areas of
+interest, the lines of acceptable activity are continually
+beingredrawn.Itis yourresponsibility to obtain approval
+from yourmanager before engaging in outside activities
+thatmay conflict or compete with any ofIBM’s actual or
+potential businesses.
+Remember: you may only use yourIBM provided assets
+for incidental personal use. Also, any approved outside
+activities you undertake may notinterfere with yourIBM
+work and you maynotuse IBM proprietary or confidential
+information, orinformation entrusted to IBM by those we
+do business with, in connection with such activities.
+Personal financial interests
+You may not have financial interests in any organizations
+or companies (whether public orprivate, large or closely
+held) with which IBM does business, such as suppliers,
+clients, competitors or IBM Business Partners, if that
+interest could create or give the appearance of a conflict
+ofinterestwithIBM.You must consultwith yourmanager
+if you think any of your investments raise conflict of
+interest issues. Do not evade these investment
+restrictions by acting indirectly through anyone else.
+Independently Developing Intellectual Property
+IBM understands employees may have interests in
+developing intellectual property outside ofIBM and IBM
+supports such efforts as provided in our On Your Own
+Time (OYOT) Guidelines for IP Ownership and IBM's
+Open Source Participation Guidelines. It is your
+responsibility, however, to maintain IBM confidential and
+proprietary information and avoid conflicts of interest.
+Family and close relations working in the industry
+Close ties to others working in the industry – a spouse,
+domestic partner,familymember,close friend, and the like
+– present special security, regulatory and confidentiality
+concerns. Such a personal relationship mightresultin the
+inadvertent compromise of IBM’s business interests.
+Disclose to yourmanager any such relationship. Frequently,
+periodic reminders and careful attention to avoiding
+
+inadvertent disclosure of IBM or another party’s
+proprietary or confidential information or assets will help
+minimize risks to IBM’s interests. However, in some
+instances, a change in yourjob responsibilities orthose of
+the other person involved may be necessary.
+Relationships with others working at IBM
+If you have a family or romantic relationship with
+someone working for IBM and you are in a position to
+make employment or other decisions about them
+(hiring, promotion, compensation, work allocation, etc.),
+inform your manager and remove yourself from any
+decision-making to avoid conflicts of interest and
+questions about favoritism and fairness. In some
+instances, a change in your job responsibilities or those
+of the other person involved may be necessary.
+Take note!
+
+Ask yourself the following to help you determine
+if a financial interest is improper:
+› What is the extent and nature of the
+relationship between IBM and the other
+company?
+› What is the size of my investmentin relation
+to my salary and other family income and
+investments?
+› Am I being offered these investments only
+because I work at IBM?
+› Could my actions as an IBM employee affect,
+or appear to affect, the value of my
+investment in the other company?
+› Do I have any involvement, direct or indirect,
+in deciding whether IBM does business with
+this company?
+
+7. Integrity Means We Separate Our Personal Interests From Our Business Responsibilities
+
+The rules are simple: do not improperly use or disclose
+inside information; and do not evade these guidelines by
+acting through anyone else or by giving inside
+information to others for their use, even if you will not
+financially benefit from it. If you have any questions
+about what you can or cannot do, consult IBM Counsel.
+
+7.3 Steering Clear of
+Insider Trading
+During your employment with IBM, you may become
+aware of information about IBM or other companies that
+has not been made public. Using or disclosing this
+inside information for your financial or other personal
+benefit is unethical and against the law. Inside
+information is material information that is not available
+to the general public that could influence a reasonable
+investor to buy, sell or hold a company’s securities.
+Information can be material even ifitwould have only a
+small impact on the price of the securities.
+Violation of these laws may result in civil and criminal
+penalties, including fines and jail sentences. IBM will
+not tolerate the improper use of inside information.
+These prohibitions apply anywhere in the world where
+we do business.
+
+IBM Business Conduct Guidelines 42
+
+Take note!
+
+If you have a close relationship with a supplier
+to IBM or any other entity IBM does business
+with, or to someone employed by one,there is a
+potential conflict of interest, particularly if your
+work involves working with, using or selecting
+the entity. Seek advice from your manager
+and, if it is a supplier, the IBM Procurement
+Ombudsman, to mitigate any conflict of interest.
+
+Watch out!
+
+Do not disclose to anyone outside of IBM,
+including your family members, or to your IBM
+colleagues who do not have a business need to
+know:
+› inside information about IBM’s financial
+performance, including unannounced
+earnings and dividend actions, acquisitions
+ordivestitures, andother significant activities
+affecting IBM; or
+› inside information aboutIBM or any other
+company.
+Do not buy or sellIBM securities or securities
+of a client, IBM Business Partner or other
+party based on inside information you have
+about IBM or that company. For example, if
+you know thatIBM is considering a significant
+relationshipwith an IBM Business Partner,do
+not buy or sell the securities of that company
+until after the information becomes public.
+
+7. Integrity Means We Separate Our Personal Interests From Our Business Responsibilities
+
+IBM Business Conduct Guidelines 43
+
+7.4 Participating in Public
+Service and Political Activity
+
+As a good corporate citizen, IBM encourages employees
+to participate in their communities. Speak with your
+manager to determine the proper approach if you think
+your personal activities could create a conflict of
+interest.
+Public Service
+Your participation in public service may create a conflict
+of interest for IBM. As a board or committee member of
+a civic organization, for example, you may be confronted
+with a decision involving IBM, such as a decision to
+purchase IBM products or services, and your interest in
+IBM and your obligation to the civic organization might
+pull you in opposite directions. Make it clear that you are
+an IBM employee to avoid any perception that you
+concealed your association with IBM and consider
+abstaining from participating in any decision-making on
+matters involving IBM. Seek advice from the civic
+organization’s lawyer or from IBM Counsel, as needed.
+Political Contributions and Endorsements
+IBM will not endorse, support or make contributions or
+payments to any political parties or candidates, including
+through political action committees, campaign funds,
+trade or industry associations or similar organizations. For
+example, IBM will not purchase tickets, pay fees or
+reimburse expenses for any event where any portion of
+the funds will be used for election campaigns.
+Do not make any political contribution as a
+representative of IBM, and do not use work time or IBM
+assets in support of political parties or candidates
+– using work time or assets would be the equivalent of a
+contribution. IBM will not reimburse you for any
+personal contributions you make.
+
+Political Office
+IBM will not pay you for time spent running for public
+office, serving as an elected official or campaigning for a
+political candidate, unless required by law. Consult with
+Government and Regulatory Affairs before accepting a
+political appointment or running for government office
+at any level.
+
+Take note!
+
+Some jurisdictions have “pay-to-play” laws
+that impact public sector contractors, like
+IBM.If you are in a senior position within IBM
+orif you have responsibility for negotiating or
+overseeing government contracts, you and
+yourfamily members may be restricted from
+giving personal political donations in some
+jurisdictions. Understand and comply with all
+restrictions that apply to you and contactIBM
+Government & Regulatory Affairs and IBM
+Counsel with any questions.
+
+› In the United States, trade secrets are protected
+under both federal and state law. It will not be a
+violation of the BCGs, and you will not be held liable
+under any U.S. federal or state trade secret law, if you
+disclose a trade secret in confidence to the
+government or an attorney solely for the purpose of
+reporting orinvestigating a suspected violation of law,
+or if you disclose a trade secret under seal in a
+complaint or other filing or in response to a court
+order in a lawsuit or other proceeding.
+› When IBM’s client is in the public sector, IBM is that
+client’s “contractor.” U.S. law provides for certain
+rights, remedies and protections for contractor
+employees who, in connection with U.S. government
+contracts or funds, report internally or to certain
+government officials or entities information the
+employee reasonably believes is evidence of gross
+mismanagement or waste, abuse of authority,
+violation of law, or a substantial and specific dangerto
+public health and safety.
+
+› Be advised that when using IBM assets or BYO
+devices, any and all telephone conversations or
+transmissions, electronic mail or transmissions, or
+internet access or usage by an employee by any
+electronic device or system, including but notlimited
+to the use of a computer, telephone, wire, radio or
+electromagnetic, photoelectronic or photo-optical
+systems, may be subject to monitoring at any and all
+times and by any lawful means.
+
+8
+
+Notice Of Certain
+Additional Rights;
+Information and
+Resources
+
+8. Notice Of Certain Additional Rights; Resources
+
+8.1 Other IBM Policies,
+Directives andGuidelines
+
+› Access to Property and Information – page 16
+› AskHR – page 8
+› Chief Sustainability Office – page 38
+› Compliance with Transportation, Entertainment, and Business
+Amenities (CTEBA) – page 33
+› Copyright and Trademark Information – page 21
+› Corporate Directives, Policies and Instructions – page 7
+› Corporate Instruction Finance/LEG 168 Business amenities and
+gifts – page 33
+› Corporate Instruction HR 116 preventing harassment and
+bullying in the workplace - page 12
+› Corporate Instruction LEG 119 Securities Trading Policy – page 42
+› Corporate Instruction IPL 130 – Accessing non-IBM offerings
+(products or services) – page 30
+› Corporate Instruction on Enterprise Data Standards
+› Cyberthreats – page 15
+› Employee Concerns – page 7
+
+› Export Regulation – page 36
+› Global Assignment and Immigration – page 38
+› Global Insider Trust Program – page 8
+› IT Security Standard- page 16
+› Mobile Development Guidelines – page 21
+› Naming Tool Process – page 21
+› On Your Own Time – Guidelines for Developing IP – page 19
+› Open Source Participation Guidelines – page 20
+› Principles for Trust & Transparency – page 30
+› Privacy & Data Protection: Policies and Legislation – page 17
+› Social Computing Guidelines – page 10
+› Social Media Guidelines – page 10
+› Standards Activity Review (SAR) Process – page 19
+› Talk it Over @ IBM – page 8
+› Tech Ethics by Design Corporate Directive – page 30
+› Third Party Board Service page 40
+› Third Party Generative AI Tools – page 20
+› Workplace Violence Program – page 12
+› Worldwide Records Management – page 25
+
+› Global Procurement – page 28
+› Guidelines for Working with Business Partners – page 28
+› IBMer Safe Program – page 13
+› Import Regulation Office – page 37
+› Import Policies and Guides – page 37
+
+– Businessconduct
+and ethics
+– Reciprocity
+– Workforce diversity
+– Health and safety
+– Data privacy
+– Diverse business
+relationships
+– Environmental affairs
+
+– Quality
+– Politics
+– Human rights principles
+– Global employment
+standards
+– Cognitive principles
+– Statements on
+individual issues
+
+IBM Business Conduct Guidelines 45
+
+© International Business Machines Corporation 2018, 2026
+International Business Machines Corporation
+New Orchard Road
+Armonk, NY 10504
+IBM, the IBM logo and IBM.com are trademarks of International Business Machines Corporation,
+registered in many jurisdictions worldwide.
+A currentlist ofIBM trademarks is available on the Web at www.IBM.com/legal/copytrade.shtml.
